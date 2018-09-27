@@ -1,0 +1,26 @@
+body {
+    font-family: 黑体,"Helvetica",serif;
+    color:black;
+    background-color: white;
+}
+h2 {
+    font-size:17px;
+    color:green;
+}
+div#tablecontainer {
+    display:table;
+}
+.row,.bar {
+    display:table-row;
+}
+div#dbtime,tables {
+    display: table-cell;
+}
+
+.cell {
+    display:table-cell;
+}
+
+.table{
+    display:table-row;
+}
