@@ -9,10 +9,11 @@ body {
     padding:0;
 }
 .dbt {
+    display: block;
     min-height: 200px;
     width:950px;
-    top:20px;
-    margin:20px auto;
+    margin: 20px auto;
+    zoom:1;
 }
 .name {
     float:left;
@@ -25,18 +26,39 @@ h2 {
     margin: 0 0 12px ;
     line-height: 150%;
 }
-.title a{
+.more {
+    font: 12px Arial,Helvetica,sans-serif;
+    line-height: 150%;
+    color:#666666;
+}
+a:link {
+    color:#37a;
+}
+a:visited {
+    color: #669;
+}
+a:hover {
+    background:#37a;
+    color:#fff;
+}
+a:active {
+    background: yellow;
+    color:#fff;
+}
+a {
+    cursor:pointer;
+    text-decoration: none;
+}
+.name .title a{
     font-size: 24px;
     color:#494949;
 }
-a:link{
-    text-decoration: none;
-}
 div {
     display: block;
+    margin:0;
+    padding:0;
 }
 .main {
-    margin-left : 100px;
     overflow: hidden;
 }
 ul {
@@ -50,23 +72,35 @@ ul {
 }
 li {
     display: inline-block;
+    vertical-align: top;
     text-align: center;
     width: 100px;
     margin-right: 60px;
     margin-bottom: 30px;
 }
-.href {
+.href{
     margin-bottom: 10px;
+    display: block;
+    position: relative;
 }
 .type {
     display: block;
     margin-top: 10px;
     color:#999999;
+    line-height: 1;
 }
-.intro {
-    margin-bottom: 20px;
+.list li .intro {
     font-size: 13px;
     color:#333333;
     line-height: 1.38;
 }
+.list li img{
+    height: 141px;
+    width:100px;
+}
+a img {
+    border-width: 0;
+    vertical-align: middle;
+}
+
 
