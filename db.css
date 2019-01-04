@@ -75,19 +75,17 @@ a {
     margin-right:30px;
 }
 .ablum-list {
-    width:360px;
     margin: -10px 0 0 -10px;
 }
 .main .ablum-list .ablum{
+    float: left;
     display: block;
     width: 170px;
-    margin:10px 0 0 10px;
-    float:left;
+    height: 210px;
+    margin: 10px 0 0 10px;
+    /* vertical-align:top; */
     font-size:12px;
     text-align:left;
-}
-.main .ablum-list .ablum:nth-child(2n){
-    margin-left:0;
 }
 .ablum .other {
     display: block;
@@ -229,8 +227,12 @@ a img {
 #video li:last-child{
     margin-right:0;
 }
+#video .list{
+    margin-bottom:25px;
+}
 #video img{
     width:250px;
+    height:140px;
 }
 h2 .point {
     font:15px Arial,Helvetica,sans-serif;
