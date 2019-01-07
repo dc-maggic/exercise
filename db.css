@@ -42,10 +42,6 @@ li {
    
     font-size:12px;
 }
-.title {
-    display: block;
-    width:170px;
-}
 a:link {
     color:#37a;
 }
@@ -63,6 +59,11 @@ a {
 }
 .main {
     overflow:hidden;
+}
+
+.name .title {
+    display: block;
+    width:170px;
 }
 #hot .main {
     width:650px;
@@ -260,7 +261,6 @@ h2 .point {
     line-height: 150%;
 }
 #video .main .title {
-    width:250px;
     font-size:13px;
     line-height:1.54;
     margin-top:10px;
@@ -280,9 +280,9 @@ h2 .point {
     background:#37a;
     color:#fff;
 }
-#film .name li{
+.name li{
     font-size:14px;
-    margin-top:14px;
+    margin-top:5px;
     display:block;
 }
 #film .name img{
@@ -363,4 +363,64 @@ h2 .point {
 }
 #film .side .nowhot li a{
     margin-left:5px;
+}
+
+#group a:hover,#group .name a:hover{
+    color:#fff;
+    background:#37a;
+}
+#group .name a{
+    color:#007982;
+}
+#group .side {
+    width:265px;
+    overflow:hidden;
+    display:block;
+    float:right;
+    margin:0;
+}
+#group .side .moreclass {
+    width:265px;
+}
+#group .side ul {
+    margin-bottom:10px;
+}
+#group .label {
+    display:block;
+    font-size:14px;
+}
+#group .label a:link{
+    color:#333;
+}
+#group li a{
+    color:#007982;
+}
+#group li a:hover{
+    color:#fff;
+}
+#group .side li:nth-child(n+2){
+    display:inline-block;
+    margin-right:10px;
+}
+#group img{
+    width:48px;
+    height:48px;
+}
+#group .main .logo{
+    float:left;
+    margin:0 15px 10px 0;
+}
+#group .main .list li{
+    width:248;
+    height:61px;
+    margin:0 30px 30px 0;
+    overflow:hidden;
+}
+#group .main .list li:nth-child(2n){
+    margin:0 0 30px 0;
+}
+#group .main .name{
+    overflow:hidden;
+    width:185px;
+    margin:0;
 }
