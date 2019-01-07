@@ -37,6 +37,10 @@ li {
     display: inline-block;
     vertical-align: top;
     padding:0;
+    letter-spacing:normal;
+    word-spacing:normal;
+   
+    font-size:12px;
 }
 .title {
     display: block;
@@ -48,10 +52,7 @@ a:link {
 a:visited {
     color: #669;
 }
-a:hover {
-    background:#37a;
-    color:#fff;
-}
+
 a:active {
     background: yellow;
     color:#fff;
@@ -59,6 +60,9 @@ a:active {
 a {
     cursor:pointer;
     text-decoration: none;
+}
+.main {
+    overflow:hidden;
 }
 #hot .main {
     width:650px;
@@ -68,6 +72,10 @@ a {
     font: 12px Arial,Helvetica,sans-serif;
     line-height: 150%;
     color:#666666;
+}
+#hot a:hover {
+    background:#37a;
+    color:#fff;
 }
 .main .photo {
     display: inline-block;
@@ -173,6 +181,10 @@ a {
     font-size: 24px;
     color:#494949;
 }
+#dbt a:hover {
+    background:#37a;
+    color:#fff;
+}
 #dbt .main {
     display:block;
     overflow:hidden;
@@ -201,6 +213,9 @@ a {
     color:#333333;
     line-height: 1.38;
 }
+.list li  a:hover{
+    color:#fff;
+}
 #dbt .list li img{
     height: 141px;
     width:100px;
@@ -210,6 +225,10 @@ a img {
     vertical-align: middle;
 }
 
+#video .name a:hover,#video .main .list a:hover {
+    background:#37a;
+    color:#fff;
+}
 #video .main{
     width:830px;
     overflow:hidden;
@@ -244,5 +263,104 @@ h2 .point {
     width:250px;
     font-size:13px;
     line-height:1.54;
+    margin-top:10px;
+}
+#video .main .title a:link{
     color:#494949;
+}
+#video .main .title a:hover{
+    color:#fff;
+}
+
+
+#film a:link{
+    color:#27a;
+}
+#film a:hover {
+    background:#37a;
+    color:#fff;
+}
+#film .name li{
+    font-size:14px;
+    margin-top:14px;
+    display:block;
+}
+#film .name img{
+    position:relative;
+    top:-5px;
+}
+#film .main {
+    width:535px;
+    margin:0;
+}
+#film .main li {
+    text-align:center;
+    margin-bottom:40px;
+    width:24%;
+}
+#film .main .list .title a:link{
+    color:#333;
+}
+#film .main img {
+    width:100px;
+    height:140px;
+}
+#film .main .movie a:link{
+    color:#333;
+}
+#film .main .movie a:hover{
+    color:#fff;
+}
+#film .main .choose:hover{
+    background:#047fcb;
+}
+#film .main li div{
+    margin-bottom:4px;
+}
+.star {
+    width:55px;
+    height:11px;
+    background:orange;
+    display:inline-block;
+    margin-right:10px;
+}
+#film .rating i {
+    display:inline-block;
+    color:orange;
+    font-style:normal;
+    font-weight:normal;
+}
+#film .list .choose{
+    display:inline-block;
+    background:#1c8bd0;
+    color:#fff;
+    border-radius:2px;
+    padding:2px 10px;
+}
+#film .side {
+    width:265px;
+    overflow:hidden;
+    display:block;
+    float:right;
+    margin:0;
+}
+#film .side .class .list li{
+    display:inline-block;
+    width:48px;
+}
+#film ol{
+    margin:0;
+    padding:0;
+}
+#film .side .nowhot li{
+    margin-bottom:6px;
+    padding-bottom:5px;
+    border-bottom:1px solid #eaeaea;
+    display:list-item;
+    
+    list-style:decimal;
+    list-style-position:inside;
+}
+#film .side .nowhot li a{
+    margin-left:5px;
 }
