@@ -9,7 +9,6 @@ body {
     min-height: 200px;
     width:950px;
     margin:auto;
-    padding:20px;
     zoom:1;
 }
 
@@ -19,8 +18,14 @@ h2 {
     margin: 0 0 12px 0;
     line-height: 150%;
 }
+.part {
+    padding:10px 0;
+    margin-bottom:30px;
+    min-height:200px;
+}
 .part:nth-child(2n){
     background-color: #f7f7f7;
+    padding:40px 0 20px 0;
 }
 div {
     display: block;
@@ -32,6 +37,9 @@ ul {
     list-style: none;
     margin-right:0px;
     padding: 0px;
+}
+.list {
+    letter-spacing:-0.31em;
 }
 li {
     display: inline-block;
@@ -273,7 +281,7 @@ h2 .point {
 }
 
 
-#film a:link{
+#film a:link,#film a:visited{
     color:#27a;
 }
 #film a:hover {
@@ -305,7 +313,7 @@ h2 .point {
     width:100px;
     height:140px;
 }
-#film .main .movie a:link{
+#film .main .movie a:link,#film .main .movie a:visited{
     color:#333;
 }
 #film .main .movie a:hover{
@@ -425,6 +433,14 @@ h2 .point {
     margin:0;
 }
 
+.name .app div a{
+    display:block;
+    background-image:url(images/app.jpg);
+    width:50px;
+    height:50px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px #999;
+}
 
 #read a:link,#read a:visited{
     color:#614e3c;
@@ -442,11 +458,12 @@ h2 .point {
 #read .name ul:nth-child(1){
     margin-bottom:15px;
 }
-#read .name .app{
-    width:50px;
-    height:50px;
-    background:yellow;
-    margin-top:15px;
+#read .name .app div a{
+    background-position:0;
+}
+#read .name .app div a:hover{
+    background-position:0;
+    background-image:url(images/app.jpg);
 }
 #read .name .appname{
     font-size:12px;
@@ -481,7 +498,7 @@ h2 .point {
     margin-bottom:30px;
 }
 #read .main li{
-    width:24%;
+    width:24.8%;
     text-align:center;
 }
 #read .main img{
@@ -502,4 +519,119 @@ h2 .point {
     color:#fff;
     border-radius:2px;
     padding:2px 10px;
+}
+
+#music a:link,#music a:visited{
+    color:#555d53;
+}
+#music a:hover{
+    background:#37a;
+    color:#fff;
+}
+#music .name h2 a:link,#music .name h2 a:visited{
+    color:#f38c00;
+}
+#music .name h2 a:hover{
+    color:#fff;
+}
+#music .name ul{
+    margin-bottom:45px;
+}
+#music .name div:first-child div a {
+    background-position:-250px;
+}
+#music .name .app div a:hover {
+    background-position:-250px;
+    background-image:url(images/app.jpg);
+}
+#music .name .app div a {
+    background-position:-50px;
+}
+#music .name .app div a:hover {
+    background-position:-50px;
+    background-image:url(images/app.jpg);
+}
+#music .side{
+    float:right;
+}
+#music .side li{
+    display:list-item;
+    list-style:decimal;
+    list-style-position:inside;
+    color:#999;
+    padding-bottom:8px;
+    margin-bottom:8px;
+}
+#music .side .pic{
+    position:relative;
+}
+#music .side .pic a:hover .bg{
+    position:absolute;
+    top:0;
+    width:48px;
+    height:48px;
+    background-color:#222;
+    background-position:50% 50%;
+    opacity:0.85;
+    background-repeat:no-repeat;
+}
+#music .side .pic a:hover .play{
+    position:absolute;
+    top:0;
+    width:48px;
+    height:48px;
+    background-image:url("images/ic_bg_play.png");
+    background-position:50% 50%;
+    background-repeat:no-repeat;
+}
+#music .side li .album{
+    display:inline-block;
+    vertical-align:top;
+    margin-left:10px;
+}
+#music .side .pic{
+    float:left;
+    margin-right:10px;
+}
+#music .side img{
+    width:48px;
+    height:48px;
+}
+#music .main ul{
+    margin-top:-40px;
+    margin-bottom:20px;
+}
+#music .main li{
+    width:24.8%;
+    text-align:center;
+    margin-top:40px;
+    word-spacing:normal;
+    zoom:1;
+    position:relative;
+}
+#music .main li div:nth-child(2n){
+    margin-bottom:4px;
+}
+#music .main img{
+    width:80px;
+    height:80px;
+}
+#music .main .live{
+    position:absolute;
+    left:26px;
+    width:80px;
+    height:80px;
+    background-image:url("images/timeline-player-cover.png");
+    background-position:50% 50%;
+    background-repeat:no-repeat;
+}
+#music .main .title{
+    word-wrap:break-word;
+    line-height:1.45;
+}
+#music .rating i {
+    display:inline-block;
+    color:orange;
+    font-style:normal;
+    font-weight:normal;
 }
