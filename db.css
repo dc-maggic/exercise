@@ -3,10 +3,10 @@ body {
     font:12px Helvetica,Arial,sans-serif;
     line-height: 1.62;
     color:black;
+    padding:30px 0;
 }
 .section {
     display: block;
-    min-height: 200px;
     width:950px;
     margin:auto;
     zoom:1;
@@ -47,7 +47,6 @@ li {
     padding:0;
     letter-spacing:normal;
     word-spacing:normal;
-   
     font-size:12px;
 }
 a:link {
@@ -78,6 +77,99 @@ a {
     display: block;
     width:170px;
 }
+#top{
+    display: block;
+    width:950px;
+    margin:auto;
+    zoom:1;
+    overflow:hidden;
+}
+#top .list{
+    float:right;
+    
+}
+#top ul {
+    margin:0;
+}
+#top ul li a{
+    background-image:url(images/anony_nav_logo.png);
+    background-repeat:no-repeat;
+    background-position:0 0;
+    overflow:hidden;
+    display:block;
+    width:40px;
+    height:20px;
+    line-height:10em;
+}
+#top .list li{
+    margin-left:17px;
+}
+#top .list li  .reading{
+    background-position:0 0;
+}
+#top .list li  .movie{
+    background-position:-60px 0;
+}
+#top .list li  .music{
+    background-position:-120px 0;
+}
+#top .list li  .group{
+    background-position:-180px 0;
+}
+#top .list li a.city{
+    background-position:-299px 0;
+}
+#top .list li  .FM{
+    background-position:-241px 0;
+}
+#top .list li  .time{
+    background-image:url(images/ic_shijian_home_nav.png);
+}
+#top .list li .doupin{
+    background-position:-422px 0;
+}
+#top h2 {
+    display:inline-block;
+    width:160px;
+    height:34px;
+    background:url(images/logo_db.png) no-repeat 0 0;
+    overflow:hidden;
+    margin:0 20px 0 0;
+    line-height:1.1;
+    vertical-align:middle;
+}
+#top h2 a{
+    display:block;
+    width:160px;
+    height:34px;
+    line-height:10em;
+}
+#top .search{
+    display:inline-block;
+    position:relative;
+    width:270px;
+    border:1px solid #999;
+    vertical-align:middle;
+}
+#top .search input{
+    outline:none;
+    border:0;
+}
+#top .search #find{
+    width:240px;
+    padding:5px;
+    color:#ddd;
+}
+#top .search #sure{
+    position:absolute;
+    right:0;
+    width:30px;
+    height:30px;
+    margin:0;
+    padding:0;
+    background:transparent;
+}
+
 #hot .main {
     width:650px;
     display:inline-block;
@@ -744,4 +836,23 @@ h2 .point {
 #city .main .infor div:nth-child(n+2){
     font-size:12px;
     color:#666;
+}
+#bottom{
+    overflow:hidden;
+    margin-top:30px;
+    border-top:1px #dcdcdc dashed;
+    padding:14px 0;
+    text-align:left;
+    vertical-align:top;
+    font-size:12px;
+    color:#999;
+}
+#bottom p{
+    margin:0px;
+}
+#bottom .where{
+    float:left;
+}
+#bottom .douban {
+    float:right;
 }
