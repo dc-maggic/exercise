@@ -10,6 +10,7 @@ body {
     width:950px;
     margin:auto;
     zoom:1;
+    overflow:hidden;
 }
 
 h2 {
@@ -78,11 +79,7 @@ a {
     width:170px;
 }
 #top{
-    display: block;
-    width:950px;
-    margin:auto;
-    zoom:1;
-    overflow:hidden;
+    margin-bottom:25px;
 }
 #top .list{
     float:right;
@@ -167,7 +164,143 @@ a {
     height:30px;
     margin:0;
     padding:0;
+    background:url(images/bn_srh_1.png) 50% 50% no-repeat;
+    background-position:50%;
+    overflow:hidden;
+    line-height:10em;
+}
+
+#home {
+    overflow:hidden;
+    margin-bottom:25px;
+    background-image:url(images/1653ca7fe02u04zlerm.jpg);
+    background-repeat:no-repeat;
+    background-position:calc(50% - 305px) top;
+    background-size:contain;
+    background-color:#edf4ed;
+}
+#home .section{
+    padding:28px 0 4px 0;
+}
+#home .login{
+    float:right;
+    width:270px;
+    margin-bottom:15px;
+}
+
+#home input{
+    border:0;
+    font-size:12px;
+}
+#home .login .infor input{
+    width:220px;
+    padding:0 8px;
+    margin-right:3px;
+    line-height:30px;
+}
+#home .login .infor:nth-child(1) input{
+    width:252px;
+    margin-bottom:4px;
+    border:1px solid #DBE5DB;
+    border-radius:2px;
+}
+
+#home .login .infor:nth-child(2){
+    position:relative;
+    width:268px;
+    margin-bottom:4px;
+    border:1px solid #DBE5DB;
+    border-radius:2px;
+    background:#fff;
+}
+#home .help{
+    position:absolute;
+    top:0;
+    right:10px;
+    font-size:12px;
+    line-height:35px;
+}
+#home .help a:link,#home .help a:visited{
+    color:#ccc;
+}
+#home .help a:hover{
+    color:#555;
+}
+#home .login fieldset{
+    border:0;
+    padding:0;
+    margin:0;
+}
+#home .bar{
+    margin:6px 0 4px 0;
+}
+#home .bar input,#home .bar a{
+    display:inline-block;
+    width:89px;
+    padding:0 22px;
+    border-radius:2px;
+    background:#30A080;
+    color:#30a080;
+    line-height:1;
+    text-align:center;
+    font:12px;
+    box-sizing:content-box;
+    vertical-align:top;
+}
+#home .bar a{
+    height:12px;
+    margin-left:0;
+    padding:8px 21px 7px 21px;
+    border:1px solid #30a080;
+}
+#home .bar input{
+    color:#fff;
+    height:30px;
+}
+#home .bar input:hover{
+    background:#2a8c70;
+}
+#home .bar input{
+    cursor: pointer;
+}
+#home .bar a{
     background:transparent;
+    text-align:center;
+}
+#home .app{
+    position:relative;
+    overflow:hidden;
+    margin:0 0 0 430px;
+    height:120px;   
+}
+#home .app  p{
+    display:block;
+    font-size:25px;
+    margin:7px 0 25px 0;
+}
+#home .download{
+    vertical-align:top;
+}
+#home .app  .download .dl{
+    display:inline-block;
+    background:#00B51D;
+    color:#fff;
+    border-radius:2px;
+    line-height:1;
+    padding: 9px 21px;
+    vertical-align:top;
+}
+#home .app .download .qr{
+    display:inline-block;
+    vertical-align:top;
+    padding:1px;
+    border-radius:2px;
+    margin-left:2px;
+    border:1px solid #00B51D;
+}
+#home .app .download .qr{
+    cursor:url(images/doubanapp_qrcode.png) 2 2,auto;
+
 }
 
 #hot .main {
@@ -262,7 +395,7 @@ a {
 .list .other {
     font-size: 13px;
     display: block;
-    margin:0 0 15px 0;
+    margin:0 0 0 0;
     line-height:1.3;
 }
 

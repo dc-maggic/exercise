@@ -6,7 +6,7 @@
         <link rel="stylesheet" type="text/css"  href="db.css" />
     </head>
     <body>
-        <div id="top">
+        <div id="top"><div class="section">
             <div class="list">
                 <ul>
                     <li><a class="reading" href="">读书</a></li>
@@ -24,11 +24,40 @@
                 <a href="https://www.douban.com">豆瓣</a>
             </h2>
             <div class="search">
-                <input type="text" id="find" placeholder="书籍、电影、音乐" required="required">
-                <input type="submit" id="sure" value="🔍">
+                <input type="text" id="find" placeholder="书籍、电影、音乐" >
+                <input type="submit" id="sure" value="搜索">
+            </div>
+        </div></div>
+        <div id="home">
+            <div class="section">
+                <div class="login">
+                    <form action="" method="POST">
+                        <fieldset>
+                        <div class="infor"><input type="text" placeholder="邮箱 / 手机号" ></div>
+                        <div class="infor"><input type="password" placeholder="密码"><div class="help"><a href="https://www.douban.com/accounts/resetpassword">帮助</a></div></div>
+                        <div class="bar">
+                            <input type="submit" value="登陆豆瓣">
+                            <a href="https://www.douban.com/accounts/register">注册账号</a>
+                        </div>
+                        </fieldset>
+                    </form>
+                  <!--  <div class="littlelogin">
+                        <label for="form_remember">
+                            <input name="remember" type="checkbox" id="form_remember" tabindex="4">记住我
+                        </label>
+                        <a></a>
+                        <a></a>
+                    </div>  -->
+                </div>
+                <div class="app">
+                        <p>豆瓣 6.0</p>
+                        <div class="download">
+                            <a class="dl" href="https://www.douban.com/doubanapp/app?channel=nimingye">下载豆瓣 App</a>
+                            <a class="qr"><img src="images/icon_qrcode_green.png"width="28" height="28"></a>
+                        </div>
+                </div>
             </div>
         </div>
-        <div></div>
         <div class="part" id="hot">
             <div class="section">
             <div class="main">
