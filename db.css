@@ -300,7 +300,22 @@ a {
 }
 #home .app .download .qr{
     cursor:url(images/doubanapp_qrcode.png) 2 2,auto;
-
+}
+#home .littlelogin{
+    font-size:12px;
+    color:#999;
+    vertical-align:top;
+    overflow:hidden;
+}
+#home .littlelogin label,#home .littlelogin input{
+    vertical-align:middle;
+}
+#home .littlelogin ul{
+    float:right;
+    margin:0;
+}
+#home .littlelogin li{
+    display:inline-block;
 }
 
 #hot .main {
