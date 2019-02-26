@@ -1,0 +1,7 @@
+
+.name .d:nth-child(1) p{
+  color:blue;
+}
+ul:nth-child(odd){
+  color:orange;
+}

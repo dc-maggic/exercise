@@ -1,0 +1,18 @@
+.min-content {
+    width: -moz-min-content;
+    width: min-content;
+    border: 2px dotted rgb(96, 139, 168);
+  }
+  .max-content {
+    width: -moz-max-content;
+    width: max-content;
+    border: 2px dotted rgb(96, 139, 168);
+  }
+  .wrapper {
+    display: flex;
+  }
+  
+  .wrapper input[type="text"] {
+      flex: 1 1 auto;
+    }
+  

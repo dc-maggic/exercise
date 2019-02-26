@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>AJAX 图片缓存代理</title>
+        <style type="text/css">
+        *{margin:0;padding:0}
+        #wrap{width:600px;margin:auto;text-align:center;}
+        #wrap img{width:270px;height:400px;}</style>
+    </head>
+    <body>
+        <div id="wrap">
+
+        </div>
+        <script type="text/javascript" src="js/ajax.js"></script>
+        <script type="text/javascript">
+        var jwrap = document.getElementById("wrap");
+        loadimg(6);
+        function loadimg(num){
+            for(var i=0;i<num;i++){
+                var img = document.createElement("img");
+                img.src="images/ajax-loader.gif";
+                jwrap.appendChild(img);
+            }
+        };
+        //  function getData(){
+        //      var uri = "https://book.douban.com/tag/%E7%94%B5%E5%BD%B1";
+        //      Ajax("GET" , 
+        //     uri, {
+        //         start:20,
+        //         type:"T"
+                
+        //     } ,
+        //     function(){
+        //         //var data = JSON.parse(data);
+        //         console.log(data);
+        //     },
+        //     function(){console.log("Nothing");}
+        // );}
+        //滚轮
+        window.onscroll = function(){
+            var h = document.documentElement.scrollTop || document.body.scrollTop;//滚动条高度
+            
+            var b = document.documentElement.scrollHeight || document.body.scrollHeight;
+            console.log(h,b);
+            if( b - h < 800){
+                loadimg(6);
+            }
+        }
+         </script>
+    </body>
+</html>

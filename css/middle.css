@@ -1,0 +1,18 @@
+.main {
+    text-align: center;
+    color:#000;
+    background-color: brown;
+    width:300px;
+    height: 350px;
+    margin:auto;
+}
+.main:nth-child(2n){
+    background-color:blue;
+}
+
+a:link {
+    color:green;
+}
+a.more {
+    color:yellow;
+}

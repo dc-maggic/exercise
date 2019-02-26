@@ -1,0 +1,36 @@
+.broken {
+    border:solid 1px red;
+    background:yellow;
+}
+.box {
+    width:300px;
+    height:150px;
+    background-color:pink;
+    float:left;
+}
+.other{
+    height:200px;
+    background-color:yellow;
+    overflow:hidden;
+}
+.child {
+    border:1px solid red;
+    width:100px;
+    height:100px;
+    float:left;
+}
+.parent {
+    border:1px solid blue;
+    width:300px;
+    overflow:hidden;
+}
+
+.p {
+    width:200px;
+    height:50px;
+    margin:50px 0;
+    background-color:red;
+  }
+.wrap {
+    overflow:hidden;
+}

@@ -1,0 +1,9 @@
+a {
+    display:block;
+    width:120px;
+    height:100px;
+    background:black;
+}
+a:hover {
+    background:red;
+}

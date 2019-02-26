@@ -1,0 +1,8 @@
+.box{
+    width:150px;
+    height:150px;
+    display:inline-block;
+    word-wrap:break-word;
+    background:green;
+    vertical-align:top;
+}

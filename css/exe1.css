@@ -1,0 +1,11 @@
+#position {
+    width:500px;
+    margin:0 auto;
+    text-align:center;
+}
+#box {
+    margin:10px auto;
+    width:200px;
+    height:200px;
+    background-color:black;
+}

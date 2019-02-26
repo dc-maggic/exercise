@@ -1,0 +1,80 @@
+.box { 
+    display: inline-block; 
+    background: red; 
+    width: 100px; 
+    height: 100px; 
+    color: white; 
+    vertical-align:top;
+ }
+ 
+ #three { 
+    position: relative; 
+    top: 0px; 
+    left: -100px; 
+    background:blue;
+ }
+
+ body {
+   width: 500px;
+   margin: 0 auto;
+ }
+ 
+ p {
+   background: aqua;
+   border: 3px solid blue;
+   padding: 10px;
+   margin: 10px;
+ }
+ 
+ span {
+   background: red;
+   border: 1px solid black;
+ }
+ 
+ .positioned {
+   position: absolute;
+   background: yellow;
+   top: 30px;
+   left: 30px;
+ }
+ .anotherpositioned {
+   position:absolute;
+   background:orange;
+   top:0px;
+   left:0px;
+ }
+
+.table{
+   box-sizing: border-box;
+   overflow:scroll;
+   height:300px;
+ }
+ 
+ dl {
+   margin: 0;
+   padding: 24px 0 0 0;
+ }
+ 
+ dt {
+   background: #B8C1C8;
+   border-bottom: 1px solid #989EA4;
+   border-top: 1px solid #717D85;
+   color: #FFF;
+   font: bold 18px/21px Helvetica, Arial, sans-serif;
+   margin: 0;
+   padding: 2px 0 0 12px;
+   position: -webkit-sticky;
+   position: sticky;
+   top: -1px;
+ }
+ 
+ dd {
+   font: bold 20px/45px Helvetica, Arial, sans-serif;
+   margin: 0;
+   padding: 0 0 0 12px;
+   white-space: nowrap;
+ }
+ 
+ dd + dd {
+   border-top: 1px solid #CCC
+ }
