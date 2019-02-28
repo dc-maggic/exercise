@@ -89,7 +89,7 @@ a {
     margin:0;
 }
 #top ul li a{
-    background-image:url(images/anony_nav_logo.png);
+    background-image:url(../images/anony_nav_logo.png);
     background-repeat:no-repeat;
     background-position:0 0;
     overflow:hidden;
@@ -120,7 +120,7 @@ a {
     background-position:-241px 0;
 }
 #top .list li  .time{
-    background-image:url(images/ic_shijian_home_nav.png);
+    background-image:url(../images/ic_shijian_home_nav.png);
 }
 #top .list li .doupin{
     background-position:-422px 0;
@@ -129,7 +129,7 @@ a {
     display:inline-block;
     width:160px;
     height:34px;
-    background:url(images/logo_db.png) no-repeat 0 0;
+    background:url(../images/logo_db.png) no-repeat 0 0;
     overflow:hidden;
     margin:0 20px 0 0;
     line-height:1.1;
@@ -164,7 +164,7 @@ a {
     height:30px;
     margin:0;
     padding:0;
-    background:url(images/bn_srh_1.png) 50% 50% no-repeat;
+    background:url(../images/bn_srh_1.png) 50% 50% no-repeat;
     background-position:50%;
     overflow:hidden;
     line-height:10em;
@@ -173,7 +173,7 @@ a {
 #home {
     overflow:hidden;
     margin-bottom:25px;
-    background-image:url(images/1653ca7fe02u04zlerm.jpg);
+    background-image:url(../images/1653ca7fe02u04zlerm.jpg);
     background-repeat:no-repeat;
     background-position:calc(50% - 305px) top;
     background-size:contain;
@@ -299,7 +299,7 @@ a {
     border:1px solid #00B51D;
 }
 #home .app .download .qr{
-    cursor:url(images/doubanapp_qrcode.png) 2 2,auto;
+    cursor:url(../images/doubanapp_qrcode.png) 2 2,auto;
 }
 #home .littlelogin{
     font-size:12px;
@@ -660,7 +660,7 @@ h2 .point {
 
 .name .applogo{
     display:block;
-    background-image:url(images/app.jpg);
+    background-image:url(../images/app.jpg);
     width:50px;
     height:50px;
     border-radius: 10px;
@@ -688,7 +688,7 @@ h2 .point {
 }
 #read .name .applogo:hover{
     background-position:0;
-    background-image:url(images/app.jpg);
+    background-image:url(../images/app.jpg);
 }
 #read .name img{
     position:relative;
@@ -758,7 +758,7 @@ h2 .point {
 }
 #music .name  .applogo{
     display:block;
-    background-image:url(images/app.jpg);
+    background-image:url(../images/app.jpg);
     width:50px;
     height:50px;
     border-radius: 10px;
@@ -799,7 +799,7 @@ h2 .point {
     top:0;
     width:48px;
     height:48px;
-    background-image:url("images/ic_bg_play.png");
+    background-image:url("../images/ic_bg_play.png");
     background-position:50% 50%;
     background-repeat:no-repeat;
 }
@@ -840,7 +840,7 @@ h2 .point {
     left:26px;
     width:80px;
     height:80px;
-    background-image:url("images/timeline-player-cover.png");
+    background-image:url("../images/timeline-player-cover.png");
     background-position:50% 50%;
     background-repeat:no-repeat;
 }

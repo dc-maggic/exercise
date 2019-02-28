@@ -1,0 +1,90 @@
+body {
+    background:#fdd;
+    font: 12px/1.5 Tahoma;
+}
+#wrap {
+    width:500px;
+    margin:0 auto;
+}
+ul {
+    display:block;
+    overflow:hidden;
+    margin:10px 0;
+    padding:0;
+}
+li {
+    list-style:none;
+}
+a, a:link, a:visited{
+    text-decoration: none;
+    color:#fff;
+}
+a:hover {
+    text-decoration: underline;
+}
+#bgcolor {
+    margin:10px 0;
+}
+#bgcolor li {
+    display: block;
+    float: left;
+    margin:0 10px 0 0;
+    line-height:10em;
+    overflow: hidden;
+    width: 10px;
+    height: 10px;
+    cursor:pointer;
+    border-width:5px;
+    border-style:solid;
+    border-radius:15px;
+}
+
+#red {
+    background: red;
+    border-color:red;
+}
+#orange {
+    background: orange;
+    border-color:orange;
+}
+#yellow {
+    background: yellow;
+    border-color:yellow;
+}
+#green {
+    background: green;
+    border-color: green;
+}
+#blue {
+    background: blue;
+    border-color: blue;
+}
+#indigo {
+    background: indigo;
+    border-color: indigo;
+}
+#purple {
+    background: purple;
+    border-color: purple;
+}
+#bgcolor li.current {
+    background: #fff;
+}
+
+#nav {
+    border:1px solid #fff;
+    background: red;
+    zoom:1;
+}
+#nav li {
+    display:block;
+    float:left;
+    width:82px;
+    text-align:center;
+    line-height:25px;
+    border-right:1px solid #fff;
+}
+#nav li:last-child{
+    width:83px;
+    border:0;
+}

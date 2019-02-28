@@ -23,6 +23,7 @@ function change(){
         links[i].index = i;
         links[i].onclick = function(){
             this.index == links.length - 1 && (box.style.cssText = '');
+            //判断 this.index == links.length 是否为 true，是 true 就返回 box.style.cssText = ''，否则返回 false。
             box.style[att[this.index]] = value[this.index];
         }
     }
