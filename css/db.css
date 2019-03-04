@@ -171,7 +171,8 @@ a {
 }
 
 #home {
-    overflow:hidden;
+    position:relative;
+    overflow:visible;
     margin-bottom:25px;
     background-image:url(../images/1653ca7fe02u04zlerm.jpg);
     background-repeat:no-repeat;
@@ -268,10 +269,12 @@ a {
     text-align:center;
 }
 #home .app{
-    position:relative;
-    overflow:hidden;
-    margin:0 0 0 430px;
-    height:120px;   
+    position:absolute;
+    top:0;
+    bottom:0;
+    margin:auto 0 auto 430px;
+    height:120px;  
+    z-index:2;
 }
 #home .app  p{
     display:block;
@@ -293,13 +296,34 @@ a {
 #home .app .download .qr{
     display:inline-block;
     vertical-align:top;
-    padding:1px;
-    border-radius:2px;
-    margin-left:2px;
-    border:1px solid #00B51D;
+    position:relative;
 }
-#home .app .download .qr{
-    cursor:url(../images/doubanapp_qrcode.png) 2 2,auto;
+#home .app .download .closeqr{
+   display:block;
+   padding:1px;
+   border-radius:2px;
+   margin-left:2px;
+   border:1px solid #00B51D;
+}
+#home .app .download .openqr{
+    display:none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px 20px 5px;
+    border-radius: 2px;
+    text-align: center;
+    font-size: 13px;
+    color: #666;
+    background: #fff;
+    line-height: 13px;
+    white-space: nowrap;
+}
+#home .app .download .openqr p{
+    
+    text-align: center;
+    font-size: 13px;
+    color: #666;
 }
 #home .littlelogin{
     font-size:12px;

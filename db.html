@@ -54,7 +54,10 @@
                         <p>豆瓣 6.0</p>
                         <div class="download">
                             <a class="dl" href="https://www.douban.com/doubanapp/app?channel=nimingye">下载豆瓣 App</a>
-                            <a class="qr"><img src="images/icon_qrcode_green.png"width="28" height="28"></a>
+                            <div class="qr">
+                                <a class="closeqr"><img src="images/icon_qrcode_green.png"width="28" height="28"></a>
+                                <div class="openqr"><img src="images/doubanapp_qrcode.png"width="160" height="160"><p>OS / Android 扫码直接下载</p></div>
+                            </div>
                         </div>
                 </div>
             </div>
@@ -1274,5 +1277,37 @@
                 </div>
             </div>
         </div>
+        <script>
+            
+            //必备函数
+function addLoadEvent(func){
+    var oldload = window.onload;
+    if (typeof window.onload != 'function'){
+        window.onload = func;
+    } else {
+        window.onload = function(){
+            oldload();
+            func();
+        }
+    }
+}
+//获得二维码
+function scanQr(){
+    if(!document.getElementsByClassName) return false;
+    if(!document.getElementsByClassName("qr")) return false;
+    var qr = document.getElementsByClassName("qr")[0];
+    var openqr = qr.getElementsByClassName("openqr")[0];
+    var closeqr = qr.getElementsByClassName("closeqr")[0];
+    qr.onmouseover = function(){
+        openqr.style.display = "block";
+        closeqr.style.display = "none";
+    };
+    qr.onmouseout = function(){
+        openqr.style.display = "none";
+        closeqr.style.display = "block";
+    }
+}
+addLoadEvent(scanQr);
+        </script>
     </body>
 </html>
