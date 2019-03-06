@@ -7,6 +7,7 @@ body {
     line-height: 1.62;
     padding:0;
 }
+/*nav是顶部导航栏*/
 #nav {
     width:100%;
     min-width: 1024px;
@@ -52,6 +53,9 @@ body {
     padding: 10px 20px 30px 20px;
     color: #111;
     text-align: center;
+    background-color:#fff;
+    border: 1px solid #e6e6e6;
+    border-top: none;
 }
 #nav ul #download #qr #title {
     display: block;
@@ -74,4 +78,106 @@ body {
     font-weight: normal;
     font-size: 12px;
     padding: 0;
+}
+
+/*top是顶部*/
+#top {
+    background: #f6f6f1;
+    margin-bottom: 40px;
+    min-width: 1024px;
+    position:relative;
+}
+#top .up {
+    border-bottom: 1px solid #e5ebe4;
+}
+#top .section {
+    width: 1024px;
+    margin:0 auto ;
+    padding-left: 12px;
+}
+#top .up .section {
+    padding:10px 0 5px 12px;
+    overflow: hidden;
+}
+#top .up .section .logo {
+    float: left;
+    height: 56px;
+    width: 145px;
+    margin-right: 13px;
+    background:url(../images/lg_book@2x.png) no-repeat 0 12px;
+    background-size: 80%;
+}
+#top .up .section .logo a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    line-height: 20em;
+}
+#top .up .section .search {
+    margin-left: 145px;
+    text-align: center;
+    padding: 10px 0 15px 0;
+    
+}
+#top .up .section .search #find {
+    float: left;
+    background: #fff;
+    width: 470px;
+    margin-right: -3px;
+    text-align: left;
+    height: 30px;
+    padding-left: 10px;
+    height: 31px;
+    line-height: 28px;
+    outline: none;
+    cursor: text;
+    border:none;
+    border-radius:3px;
+    box-shadow: 0 2px #ddd;
+}
+#top .up .section .search #sure {
+    display: block;
+    position: relative;
+    left: -1px;
+    line-height: 20em;
+    width: 37px;
+    height: 34px;
+    padding-top: 34px;
+    border: 0;
+    cursor: pointer;
+    background: url(../images/nav_bk_bg.png) no-repeat 0 -40px;
+}
+#top .down{ 
+    overflow:hidden;
+}
+#top .down .section ul {
+    margin: 9px 0;
+}
+#top .down ul li {
+    display: inline-block;
+    margin-right: 25px;
+}
+#top .down ul li:last-child{
+    padding-left: 18px;
+    background: url(../images/icon_myorders.png) no-repeat 1px 1px;
+}
+#top .down ul li a:link,#top .down ul li a:visited {
+    color: #614e3c;
+    text-decoration: none;
+}
+#top .down ul li a:hover {
+    background-color: #614e3c;
+    color: #fff;
+}
+#top .down .section .rank{
+    position: absolute;
+    width: 186px;
+    height: 96px;
+    top: 10px;
+    left: 50%;
+    margin-left: 280px;
+    background: url(../images/annual_2018.png) center no-repeat;
+    background-size: contain;
+    z-index: 1;
 }
