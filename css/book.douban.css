@@ -1,0 +1,77 @@
+* {
+    margin:0;
+    padding:0;
+}
+body {
+    font: 12px Helvetica,Arial,sans-serif;
+    line-height: 1.62;
+    padding:0;
+}
+#nav {
+    width:100%;
+    min-width: 1024px;
+    height: 28px;
+    background-color: #545652;
+    color: #d5d5d5;
+    overflow: visible;
+    z-index: 2;
+}
+#nav ul {
+    display: block;
+}
+#nav #right-nav {
+    float: right;
+}
+#nav ul li {
+    display: inline-block;
+    line-height: 28px;
+    vertical-align: baseline;
+}
+#nav ul #download {
+    position: relative;
+}
+#nav ul li a {
+    padding: 0 12px;
+    height: 28px;
+    text-decoration: none;
+    cursor: pointer;
+    vertical-align: top;
+}
+#nav ul li a:visited {
+    color: #d5d5d5;
+}
+#nav ul li a:active, #nav ul li a:hover {
+    color: #fff;
+    background-color: transparent;
+}
+#nav ul #download #qr {
+    display: none;
+    width: 211px;
+    position: absolute;
+    left: -76px;
+    padding: 10px 20px 30px 20px;
+    color: #111;
+    text-align: center;
+}
+#nav ul #download #qr #title {
+    display: block;
+    padding-top: 170px;
+    background: url("../images/nav_doubanapp_6.png") no-repeat center;
+    font-size: 24px;
+    font-weight: 400;
+}
+#nav ul #download #qr #qrcode {
+    padding-top:160px;
+    margin-top: 30px;
+    font-size:0;
+    background: url("../images/nav_doubanapp_6_qrcode.png") no-repeat center;
+}
+#nav ul #download #qr #type a{
+    color: #37a;
+}
+#nav ul #download #qr #type a {
+    display: inline;
+    font-weight: normal;
+    font-size: 12px;
+    padding: 0;
+}
