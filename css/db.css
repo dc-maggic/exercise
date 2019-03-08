@@ -88,6 +88,9 @@ a:active {
     float:right;
     
 }
+#top h2 a:hover,#top h2 a:active{
+    background: transparent;
+}
 #top ul {
     margin:0;
 }
