@@ -50,20 +50,23 @@ li {
     word-spacing:normal;
     font-size:12px;
 }
+a {
+    cursor:pointer;
+    text-decoration: none;
+}
 a:link {
     color:#37a;
 }
 a:visited {
     color: #669;
 }
-
-a:active {
-    background: yellow;
-    color:#fff;
+a:hover {
+    background: #37a;
+    color: #fff;
 }
-a {
-    cursor:pointer;
-    text-decoration: none;
+a:active {
+    color:#fff;
+    background: #f93;
 }
 .main {
     overflow:hidden;
@@ -172,9 +175,8 @@ a {
 
 #home {
     position:relative;
-    overflow:visible;
     margin-bottom:25px;
-    background-image:url(../images/1653ca7fe02u04zlerm.jpg);
+    background-image:url(../images/home.jpg);
     background-repeat:no-repeat;
     background-position:calc(50% - 305px) top;
     background-size:contain;
@@ -195,9 +197,8 @@ a {
 }
 #home .login .infor input{
     width:220px;
-    padding:0 8px;
+    padding:8px 8px;
     margin-right:3px;
-    line-height:30px;
 }
 #home .login .infor:nth-child(1) input{
     width:252px;
@@ -226,6 +227,7 @@ a {
 }
 #home .help a:hover{
     color:#555;
+    background: transparent;
 }
 #home .login fieldset{
     border:0;
@@ -351,10 +353,6 @@ a {
     line-height: 150%;
     color:#666666;
 }
-#hot a:hover {
-    background:#37a;
-    color:#fff;
-}
 .main .photo {
     display: inline-block;
     width:350px;
@@ -453,10 +451,7 @@ a {
     font-size: 24px;
     color:#494949;
 }
-#dbt a:hover {
-    background:#37a;
-    color:#fff;
-}
+
 #dbt .main {
     display:block;
     overflow:hidden;
@@ -468,6 +463,9 @@ a {
     width: 100px;
     margin-right: 60px;
     margin-bottom: 30px;
+}
+#dbt .name .title a:hover {
+    color: #fff;
 }
 .href{
     margin-bottom: 10px;
@@ -497,10 +495,6 @@ a img {
     vertical-align: middle;
 }
 
-#video .name a:hover,#video .main .list a:hover {
-    background:#37a;
-    color:#fff;
-}
 #video .main{
     width:830px;
     overflow:hidden;
@@ -544,13 +538,7 @@ h2 .point {
 }
 
 
-#film a:link,#film a:visited{
-    color:#27a;
-}
-#film a:hover {
-    background:#37a;
-    color:#fff;
-}
+
 .name li{
     font-size:14px;
     margin-top:5px;
@@ -629,10 +617,7 @@ h2 .point {
     margin-left:5px;
 }
 
-#group a:hover,#group .name a:hover{
-    color:#fff;
-    background:#37a;
-}
+
 #group .name a{
     color:#007982;
 }
@@ -694,14 +679,10 @@ h2 .point {
 #read a:link,#read a:visited{
     color:#614e3c;
 }
-#read a:hover {
-    background:#37a;
-    color:#fff;
-}
 #read .name h2 a:link{
     color:#4a2f14;
 }
-#read .name a:hover{
+#read a:hover{
     color:#fff;
 }
 #read .name ul{
@@ -767,9 +748,8 @@ h2 .point {
 #music a:link,#music a:visited{
     color:#555d53;
 }
-#music a:hover{
-    background:#37a;
-    color:#fff;
+#music a:hover {
+    color: #fff;
 }
 #music .name h2 a:link,#music .name h2 a:visited{
     color:#f38c00;
@@ -885,9 +865,6 @@ h2 .point {
 #doupin .side a{
     font-size:14px;
 }
-#doupin a:link,#doupin a:visited{
-    color:#3377a9;
-}
 #doupin .side .what{
     margin-bottom:30px;
 }
@@ -943,6 +920,9 @@ h2 .point {
     overflow:hidden;
     color:#3377A9;
 }
+#doupin .main .intro a:hover,#doupin .name a:hover {
+    color: #fff;
+}
 #doupin .main .intro .price{
     
     float:right;
@@ -954,7 +934,6 @@ h2 .point {
 }
 #city a:hover,#city .name a:hover{
     color:#fff;
-    background:#37a;
 }
 #city .name .title a:link,#city .name .title a:visited{
     color:#ec5303;
