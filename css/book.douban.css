@@ -2,8 +2,11 @@
     margin:0;
     padding:0;
 }
+@media (max-width: 1024px) {body {
+    width: 1024px;
+}}
 body {
-    font: 12px Helvetica,Arial,sans-serif;
+    font: 13px Helvetica,Arial,sans-serif;
     line-height: 1.62;
     padding:0;
 }
@@ -21,7 +24,7 @@ a:hover {
 /*nav是顶部导航栏*/
 #nav {
     width:100%;
-    min-width: 1040px;
+    min-width: 940px;
     height: 28px;
     background-color: #545652;
     color: #d5d5d5;
@@ -98,6 +101,10 @@ a:hover {
     min-width: 1040px;
     position:relative;
 }
+@media (max-width: 1024px){
+#top {
+    min-width: 1024px;
+}}
 #top .up {
     border-bottom: 1px solid #e5ebe4;
 }
@@ -191,11 +198,18 @@ a:hover {
     background-size: contain;
     z-index: 1;
 }
+
+/*main 是主要内容*/
 #main {
     width: 1040px;
     margin: 0 auto;
 }
-
+@media (max-width: 1024px){
+#main {
+    width: 1000px;
+}
+}
+/*右边栏*/
 #bar {
     float: right;
     width:300px;
@@ -205,6 +219,7 @@ a:hover {
     padding-bottom: 3px;
     margin-bottom: 16px;
     border-bottom: 1px solid #ddd;
+    line-height: 24px;
 }
 #bar  .title span {
     font-size: 13px;
@@ -218,6 +233,7 @@ a:hover {
 li {
     display: block;
 }
+/* tags 热门标签*/
 #bar #tags ul {
     display: block;
     list-style: none;
@@ -259,6 +275,7 @@ li {
     background-color: #e8e8e8;
     line-height: normal;
 }
+/* 畅销图书榜*/
 #rank {
     margin-bottom: 32px;
 }
@@ -337,7 +354,10 @@ li {
 #dd-rank {
     display: none;
 }
-
+/* 豆瓣图书 */
+#dbbooks {
+    margin-bottom: 20px;
+}
 #dbbooks .title h1 {
     font-weight: bold;
     font-size: 16px;
@@ -345,4 +365,77 @@ li {
  #dbbooks .title h1 span {
     font-size: 13px;
     font-weight: normal;
+}
+#dbbooks .books {
+    margin-right: -22.5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#dbbooks .book {
+    float: left;
+    margin: 0 22.5px 10px 0;
+    vertical-align: top;
+}
+#dbbooks .book  .pic{
+    display: block;
+    width:85px;
+    height: 127px;
+}
+#dbbooks .book .pic:hover {
+    background: transparent;
+}
+#dbbooks .book a img {
+    max-width: 100%;
+}
+#dbbooks .book .name{
+    width: 85px;
+    margin-top: 5px;
+    text-align:  center;
+}
+/* 联系我们 */
+#contact {
+    margin-top: 25px;
+}
+#bar .grey-click h1{
+    font-size: 14px;
+}
+#bar .grey-click:hover {
+    background-color: #666;
+    color: #fff;
+    cursor: text;
+    
+}
+#contact div {
+    margin-bottom: 30px;
+}
+#contact img{
+    height: 12px;
+}
+
+/* 关注我们 */
+#focus ul {
+    overflow: hidden;
+}
+#focus ul li {
+    display: block;
+    float: left;
+    width: 60px;
+}
+#focus ul .pic{
+    width: 40px;
+    height: 40px;
+    margin: 0 auto 5px auto;
+    display: block;
+}
+#focus ul div {
+    text-align: center;
+}
+#focus ul li:nth-child(1) .pic {
+    background: url("../images/home_site.jpg") no-repeat center;
+}
+#focus ul li:nth-child(2) .pic{
+    background: url("../images/home_weibo.png") no-repeat center;
+}
+#focus ul li:nth-child(3) .pic{
+    background: url("../images/home_weixin.png") no-repeat center;
 }
