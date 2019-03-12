@@ -20,6 +20,9 @@ a:hover {
     background-color: #3377aa;
     color: white;
 }
+ul {
+    list-style: none;
+}
 
 /*nav是顶部导航栏*/
 #nav {
@@ -209,34 +212,36 @@ a:hover {
     width: 1000px;
 }
 }
+#main  .title{
+    padding-bottom: 3px;
+    margin-bottom: 16px;
+    border-bottom: 1px solid #ddd;
+    line-height: 24px;
+}
+#main .title h1 .links-more {
+    font-size: 13px;
+    font-weight: normal;
+    padding-left: 10px;
+}
+#main  .title h1 {
+    font-weight: bold;
+    font-size: 16px;
+}
 /*右边栏*/
 #bar {
     float: right;
     width:300px;
     margin-bottom: 30px;
 }
-#bar  .title{
-    padding-bottom: 3px;
-    margin-bottom: 16px;
-    border-bottom: 1px solid #ddd;
-    line-height: 24px;
-}
-#bar  .title span {
-    font-size: 13px;
-    font-weight: normal;
-    padding-left: 10px;
-}
-#bar  .title h1 {
-    font-weight: bold;
-    font-size: 13px;
-}
 li {
     display: block;
 }
 /* tags 热门标签*/
+#tags {
+    padding-bottom: 20px;
+}
 #bar #tags ul {
     display: block;
-    list-style: none;
 }
 #bar #tags .name {
     font-size: 13px;
@@ -438,4 +443,126 @@ li {
 }
 #focus ul li:nth-child(3) .pic{
     background: url("../images/home_weixin.png") no-repeat center;
+}
+
+/* 主要内容 */
+#article {
+    width: 675px;
+}
+#article .title h1 {
+    font-size: 18px;
+    font-weight: bold;
+}
+#article .links-bar {
+    float: right;
+    overflow: hidden;
+    margin-top: -25px;
+}
+#article .wrapper {
+    margin-bottom: 50px;
+}
+.links-bar div, .links-bar ul, #article .links-bar li{
+    display: inline-block;
+    vertical-align: middle;
+}
+.links-bar .point {
+    margin-right: 6px;
+}
+.links-bar .point li{
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    border-radius: 5px;
+    background: #dfdfdf;
+    margin-left: 8px;
+    cursor: pointer;
+    font-size: 0;
+}
+.links-bar .point .point-focus {
+    background: #9b9a8e;
+}
+.links-bar .left-right li{
+    width: 18px;
+    height: 18px;
+    font: 100 16px Arial;
+    color: #fff;
+    text-align: center;
+    line-height: 16px;
+    margin-left: 4px;
+    outline: none;
+    border-radius: 9px;
+    background: #9b9a8e;
+    cursor: pointer;
+}
+.left-right li:hover, .left-right-focus{
+    opacity: 0.8;
+}
+.pages {
+    margin-right: -25px;
+    font-size: 0;
+}
+.pages li{
+    display: inline-block;
+    margin-right: 25px;
+    margin-bottom: 15px;
+    vertical-align: top;
+}
+.pages .pic {
+    width: 115px;
+    height: 172px;  
+    margin-bottom: 7px;
+}
+.pages .pic img {
+    width: 115px;
+    height: 172px;  
+    vertical-align: middle;
+}
+.pages span {
+    display: block;
+}
+.pages .name {
+    font-size: 14px;
+    margin-bottom: 6px;
+}
+.pages .author {
+    color: #333;
+    width: 102px;
+    font-size: 13px;
+    margin-bottom: 6px;
+}
+
+#booksnews .item {
+    padding: 25px;
+    margin-bottom: 4px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+}
+#booksnews .pic {
+    float: right;
+    height: 96px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center bottom;
+}
+#booksnews .text {
+    margin-right: 116px;
+}
+#booksnews .item h2 {
+    line-height: 1.38;
+    font-size: 15px;
+    color: #37a;
+}
+#booksnews .item .type {
+    display: block;
+    color: #aaa;
+    font-size: 13px;
+    line-height: 1;
+    margin-top: 8px;
+}
+#booksnews .infor {
+    display: block;
+    color: #494949;
+    line-height: 1.5;
+    margin: 8px 0 0 0;
+    font-size: 13px;
 }
