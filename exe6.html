@@ -3,12 +3,37 @@
     <head>
         <meta charset="utf-8">
         <title>记住密码提示框</title>
-        <link rel="stylesheet" type="text/css"  href="css/exe6.css" />
     </head>
     <body>
-        <div id="wrap">
-            <label ><input type="checkbox" >记住我</label>
+        <div id="wrap" style="font-size:18px;position:relative;width:500px;margin:0 auto;text-align:center;">
+            <label  ><input  type="checkbox" >记住我</label>
+            <div id="tip" style="
+            display:none;
+            width:300px;
+            border:1px solid orange;
+            background:yellow;
+            color:red;
+            font-size:14px;
+            padding:2px;
+            letter-spacing:0.1em;
+            position:absolute;
+            top:25px;
+            left:20%;
+            z-index:2;">
+                为了您的信息安全，请不要在网吧或公用电脑上使用此功能！
+            </div>
         </div>
-        <script src="js/exe6.js"></script>
+        <script>
+            window.onload = function(){
+                remember = document.getElementsByTagName("label")[0];
+                tip = document.getElementById("tip");
+                remember.onmouseover = function(){
+                    tip.style.display = "block";
+                };
+                remember.onmouseout = function(){
+                    tip.style.display = "none";
+                };
+            }
+        </script>
     </body>
 </html>

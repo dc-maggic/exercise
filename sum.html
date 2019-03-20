@@ -1,0 +1,46 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>求出数组中所有数字的和</title>
+        <style>
+            #wrapper {
+                width:500px;
+                margin: 0 auto;
+            }
+            #wrapper input{
+                width:300px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="wrapper">
+            <input type="text" placeholder="输入数字求和，数字之间用半角','号分隔">
+            <button>求和</button>
+            <p id="number"></p>
+            
+        </div>
+        <script>
+            window.onload = function(){
+                var nums = document.getElementsByTagName("input")[0];
+                var count = document.getElementsByTagName("button")[0];
+                var textSum = document.getElementsByTagName("p")[0];
+                nums.onkeyup =function(){
+                    this.value = this.value.replace(/[^(\d)|(,)|(\.)]/,"");
+                    this.value = this.value.replace(/(\.){2,}|(\.)(\d)*(\.)/,"");
+                }
+                count.onclick = function(){
+                    var num = nums.value.split(",");
+                    var sum = 0;
+                    for(var i=0; i<num.length; i++){
+                        sum += Number(num[i]);
+                    }
+                    textSum.innerHTML = ("结果: " + sum);
+                }
+            }
+        </script>
+    </body>
+</html>
+<!-- 
+    改进原本练习中无法计算小数的缺点
+ -->
