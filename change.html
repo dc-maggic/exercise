@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            函数传参，改变 Div 任意属性的值
+        </title>
+        <style>
+        #wrapper {
+            width:300px;
+            margin:20px auto;
+            font-size:14px;
+        }
+        #wrapper div {
+            margin:10px 0;
+        }
+        #example {
+            width:200px;
+            height:200px;
+            margin: 0 auto;
+            padding:20px;
+            background:chocolate;
+            color:#000;
+        }
+        </style>
+    </head>
+    <body>
+        <div id="wrapper">
+            <div><label for="propertyname">属性名：</label><input id="propertyname" type="text" placeholder="background"></div>
+            <div><label for="propertyvalue">属性值：</label><input id="propertyvalue"  type="text" placeholder="white"></div>
+            <button>提交</button>
+        </div>
+        <div id="example">
+                在上方输入框输入"属性名"及"属性值"，点击确定按钮查看效果。
+        </div>
+        <script>
+            window.onload = function(){
+                var propertyname = document.getElementById("propertyname");
+                var propertyvalue = document.getElementById("propertyvalue");
+                var example = document.getElementById("example");
+                var bt = document.getElementsByTagName("button")[0];
+                bt.onclick = function(){
+                    example.style[propertyname.value] = propertyvalue.value;
+                }
+            }
+        </script>
+    </body>
+</html>

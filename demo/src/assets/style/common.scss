@@ -1,0 +1,49 @@
+
+html {
+  font-family: 'Microsoft YaHei';
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%
+}
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box
+}
+body{
+}
+.container{
+  width: 1260px;
+  margin: 0 auto;
+  //background: $bg;
+}
+.content{
+  min-height: 810px;
+  padding: 50px 0;
+}
+img{
+  vertical-align: middle;
+}
+a {
+  text-decoration: none;
+}
+// 阴影文字
+.is-shadow{
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+  padding-right: 20px;
+  &:before{
+    content: '';
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+    height: 18px;
+    background: #E3E5F3;
+    left:0;
+    bottom: -5px;
+    z-index: -1;
+  }
+}
+.top-space {
+  padding-top: 80px;
+}

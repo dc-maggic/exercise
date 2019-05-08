@@ -1,0 +1,1292 @@
+{
+	"subjects": [
+		{
+			"id": "1",
+			"value": "english",
+			"name": "英语",
+			"list": [
+				{
+					"value": "ivan",
+					"text": "艾文培训中心",
+					"data": [
+						{
+							"realname": "邓婕",
+							"nickname": "Tina",
+							"result": "<ul><li><span><span ><span>所带初中班级多名学员中考夺Ａ+或Ａ，顺利考入名校。<\/span><\/span><\/span><\/li><li><span><span ><span>小升初学员中，多位学员获得希望之星一、二等奖，所带学员累计输送5+1名校近百人。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >注重因材施教，为每个学生找到合适自己的方法。<\/span><\/span><\/span><\/li><li><span><span><span >让学生从学会变成会学，让学生享受学习，享受进步。<\/span><\/span><\/span><\/li><li><span><span><span >了解并善于疏导学生心态，爱学员与严格要求学员并重，及时跟进反馈学员情况，不断激发学员潜能。   <\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >英语教育专业毕业，中共党员，专业八级。<\/span><\/span><\/span><\/li><li><span><span><span >高级教师资格证，中学二级教师。<\/span><\/span><\/span><\/li><li><span><span><span >曾在公立学校任教，教学经验丰富，英语功底深厚。<\/span><\/span><\/span><\/li><li><span><span><span >有多年带冲刺班经验，熟悉深圳各教材及小升初和中考模式，有效帮助学员备考冲刺。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531560294568QSivrd-tina1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中"
+							]
+						}, {
+							"realname": "郭芳",
+							"nickname": "Rita",
+							"result": "<ul><li><span><span><span >10余年的教学沉淀，重点关注孩子的学习习惯，<\/span><\/span><\/span><\/li><li><span><span><span >针对孩子的特点进行个性化的教学，每个孩子都是独一无二的，有进步，不管大小，不论分数高低，都是最棒的娃。 <\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >课堂气氛积极、活跃。<\/span><\/span><\/span><\/li><li><span><span><span >贯彻赏识教育，有针对性的进行教学 。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span ><span>裘学品牌管理中心负责人。<\/span><\/span><\/span><\/li><li><span><span ><span>英语教育专业毕业，拥有10余年的教学经历。<\/span><\/span><\/span><\/li><li><span><span ><span>2008年度先进工作者，2009年优秀教学组长、高级教师，2010年北京洪恩全国教学竞赛优秀奖。<\/span><\/span><\/span><\/li><li><span><span ><span>2010-至今，历任艾文培训中心校区主任，教学部部长，学科部负责人。<\/span><\/span><\/span><\/li><\/ul><p> <\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/15315600309538Yivrd-rita1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中"
+							]
+						}, {
+							"realname": "彭桅",
+							"nickname": "Allen",
+							"result": "<ul><li><span><span><span >所带学员考入深圳五大名校近百人，90%学员进步明显。<\/span><\/span><\/span><\/li><li><span><span><span >其中2012年Allen47班多人考入深外、深中等名校。<\/span><\/span><\/span><\/li><li><span><span><span >2013-2014年中考班5人，中考两人得A+，两人得A。<\/span><\/span><\/span><\/li><li><span><span><span >2014-2015年中考班8人，中考3人得A+，3人得A，最高分99分。<\/span><\/span><\/span><\/li><li><span><span><span >2015-2016年中考班10人，中考3人得A+，4人得A。<\/span><\/span><\/span><\/li><li><span><span><span >2015-2016年中考班9人，中考4人得A+，3人得A。<\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"featureContent": "<ul><li><span><span><span><span >教学经验丰富，风格多变，擅长调节课堂气氛，利于不同程度的学生接受。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >对学生的各个方面要求严格，真正以教书育人为目的。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >对于学生，亦师亦友。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >湖南师范大学英语专业毕业，英语文学学士。<\/span><\/span><\/span><\/li><li><span><span><span >高级教师资格证，英语专业八级。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531559728254zXivrd-allen1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中",
+								"高中"
+							]
+						}, {
+							"realname": "余敏娇",
+							"nickname": "Jojo",
+							"result": "<ul><li><span><span><span >从教以来，90%学生取得较大进步，在学员和家长中口碑良好，深受大家欢迎。<\/span><\/span><\/span><\/li><li><span><span><span >所带班级90%以上的学员都能够取得极大的进步，众多学员考试中进入班级前十名。<\/span><\/span><\/span><\/li><li><span><span><span >80%的学生考试成绩为A或A+，为5+1名校输送近百名学员。<\/span><\/span><\/span><\/li><li><span><span><span >目前所带的精英班50%班级前三。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span >教学风格宽严相济，极有耐心。 <\/span><\/span><\/li><li><span><span >对工作认真负责，平易近人的老师。<\/span><\/span><\/li><li><span><span >在课堂上，她十分严厉，非常认真，循循善诱，强调理解。<\/span><\/span><\/li><li><span><span >课后，耐心亲切，亦师亦友。<\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >英语教育专业毕业，专业八级，高级教师资格证。<\/span><\/span><\/span><\/li><li><span><span><span >八年英语教学经验。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/15315587434221Zivrd-jojo1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中"
+							]
+						}, {
+							"realname": "袁林浩",
+							"nickname": "Jack",
+							"result": "<ul><li><span><span><span >教学经验丰富，低中高年级教学游刃有余。<\/span><\/span><\/span><\/li><li><span><span><span >熟悉深圳小学各大教材和授课方式，具备教授艾文原创教材、新概念、剑桥、上教版等不同教材的丰富经历，知识面广。<\/span><\/span><\/span><\/li><li><span><span><span >所带学员在校成绩均提分40%。<\/span><\/span><\/span><\/li><li><span><span><span >所带学员曾在希望杯中获得一等奖、二等奖。<\/span><\/span><\/span><\/li><li><span><span><span >全国小学生英语能力竞赛中获得二等奖、三等奖。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >课堂上采用全英文教学，积极与学生互动，课堂幽默，氛围轻松。<\/span><\/span><\/span><\/li><li><span><span><span >知识点讲解善于用贴近生活的例子为学生排疑解难，与当下时事相结合，课堂操练点线面结合。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span ><span>获得英语专业8级证书，在校曾担任义教队队长，累积服务广州一中学2年。<\/span><\/span><\/span><\/li><li><span><span ><span>现任艾文中学部教研负责人，负责艾文中学教研产品的研发工作，具有丰富的教材编写经验。<\/span><\/span><\/span><\/li><li><span><span ><span>曾在艾文培训中心托福月考中取得优异成绩，获得优秀奖。<\/span><\/span><\/span><\/li><li><span><span ><span>负责编写七八年级教材《“趣”你的语法》、初中《暴虐音标训练营》、《外报训练营》等。<\/span><\/span><\/span><\/li><li><span><span ><span>负责制作日常口语类型如酒店口语、旅行口语等PPT，深受广大学员家长喜爱。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531558083569uGivrd-jack1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中",
+								"高中"
+							]
+						}, {
+							"realname": "黄凯莉",
+							"nickname": "Kelly",
+							"result": "<ul><li><span><span><span><span >所带学员多数为年级及班级的佼佼者，发音流利地道，擅长表演英语小剧，英语兴趣极其浓。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >多名优秀学员获得国际口语等级证书，剑桥少儿英语考试，希望之星少儿组获奖证书等。<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"featureContent": "<ul><li><span><span><span><span >专业不失亲和，亲和不失严格，严格不失耐心。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >用心打磨每堂课的内容，让所有的孩子学的开心，获得最大程度的进步。<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"through": "<ul><li><span><span><span><span >曾在公立学校任教，教学经验丰富，英语功底深厚。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >参与编写艾文精品课程教材《趣你的语法》。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >在职期间多次在教师技能大赛中表现优异。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >主教幼儿、少儿朗文课程，Teddy课程，小学英语课程，具有丰富的少儿教学经验。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531556292616W6ivrd-10.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学"
+							]
+						}, {
+							"realname": "文沛",
+							"nickname": "Sarah",
+							"result": "<ul><li><span><span ><span>十年小升初教学经验，所教学生80%考入名校。<\/span><\/span><\/span><\/li><li><span><span ><span>所带学生成绩均显著提高，培养出大批的班级第一、年级前三的优秀学生。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span ><span>教学做到四心：耐心、细心、爱心、责任心。<\/span><\/span><\/span><\/li><li><span><span ><span>课堂可严肃可活泼，深受家长和学生们的喜欢和信任。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >现任小升初教研员。<\/span><\/span><\/span><\/li><li><span><span><span >曾任莲花北校区主管，翠竹校区主管。<\/span><\/span><\/span><\/li><li><span><span><span >曾任小升初教研主管，参与编写《小升初实战语法》。<\/span><\/span><\/span><\/li><li><span><span><span >曾多次获得艾文教师月考第一名。<\/span><\/span><\/span><\/li><li><span><span><span >主要负责编写四、五年级《“趣”你的语法》。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/15315561378475livrd-22.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中"
+							]
+						}, {
+							"realname": "肖飞艳",
+							"nickname": "Summer",
+							"result": "<ul><li><span><span ><span>所带学生97%成绩进步明显，95%的学生最后都会爱上学习，养成主动学习的习惯。<\/span><\/span><\/span><\/li><li><span><span ><span>“北京外国语大学－全国青少年阅读风采大赛”优秀指导教师，所辅导的学生曾获“全国团体赛最高奖项-金奖”，个人赛全国总决赛一等奖、二等奖若干。<\/span><\/span><\/span><\/li><li><span><span ><span> 所带学生95%能考入小升初尖尖班与精英班继续深造，总能听到有学生最后考入四大名校的好消息。<\/span><\/span><\/span><\/li><li><span><span ><span> 所带学生毛雨菲裸考KET，获得总成绩145分，Level B1。<\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"featureContent": "<ul><li><span><span ><span>寓乐于教，寓爱于教。<\/span><\/span><\/span><\/li><li><span ><span><span>英语专业能力强。<\/span><\/span><\/span><\/li><li><span ><span><span>口语纯正。<\/span><\/span><\/span><\/li><li><span ><span><span>教学灵活。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span >8年小学教学经验。<\/span><\/li><li><span ><span><span>现任艾文小学教研负责人，负责艾文小学教研产品的研发工作与教材的编写。<\/span><\/span><\/span><\/li><li><span ><span><span>曾任艾文朗文教研负责人。<\/span><\/span><\/span><\/li><li><span ><span><span>主编的教材有：《拼多多－自然拼读》、《身临其境－英语名著》-4年级、<span>《身临其境－英语名著》-5年级、<\/span>《绘声绘演－绘本阅读》等。<\/span><\/span><\/span><\/li><li><span ><span><span> “北京外国语大学－全国青少年阅读风采大赛”优秀指导教师。<\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/15315549751665livrd-summer1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学"
+							]
+						}, {
+							"realname": "胡丽娜",
+							"nickname": "Donna",
+							"result": "<ul><li><span><span >数百名学生考入四大名校，英语均获得A+和A的优异成绩。<\/span><\/span><\/li><li><span><span >高考学生平均分135，部分学生140+。<\/span><\/span><\/li><li><span><span >多名学生一年内提分30+。<\/span><\/span><\/li><\/ul><p><\/p>",
+							"featureContent": "<ul><li><span><span ><span>上课幽默，张弛有度。<\/span><\/span><\/span><\/li><li><span><span ><span>善于化复杂为简单，易懂且深刻。<\/span><\/span><\/span><\/li><li><span><span ><span>英语专业能力强。<\/span><\/span><\/span><\/li><li><span><span ><span>口语纯正。<\/span><\/span><\/span><\/li><li><span><span ><span>教学灵活。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >现任艾文中学教研负责人，负责艾文中考和高中教研产品的研发，具有非常丰富的教材编写经验。<\/span><\/span><\/span><\/li><li><span><span><span >编写的教材在市场上获得较大的影响力，出品过《词汇总表初中篇》、《词汇总表高中篇》、《中考冲刺教材系列》、《决战中考秘籍》、《写作，从零到灵》等。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531554528485nsivrd-28.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"初中",
+								"高中"
+							]
+						}, {
+							"realname": "熊芳",
+							"nickname": "Gaby",
+							"result": "<ul><li><span><span><span><span >所带优秀学员上千人。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >5年小升初教学经验，累积输送到四大名校的学员300余人，考取四大名校比例均在85%以上。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >6年中考教学经验，所带学员考取中考英语A的比例高达90%，A+的比例高达75%。<\/span><\/span><\/span><\/span><\/li><li><span><span><span >所带初三学员（精英班）在中考英语均获得A或A+的优异成绩，培优班都得到了一个等级的提升。<\/span><\/span><\/span><\/li><li><span><span><span >所辅导学生曾获得鹏程杯英语比赛全市一等奖、二等奖。<\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"featureContent": "<ul><li><span><span><span><span >从教八年，授课思路清晰，能充分利用课堂每一分钟帮助孩子成长，善于调动孩子学习积极性，让学生主动投入学习。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >课堂幽默风趣，课堂教学活泼细致，亲和力强，注意良好行为习惯的培养，与家长和学员建立了和谐互信的关系。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >对学生敢管敢教，始终坚信严格即大爱。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span><span >师范大学本科英语专业，英语教育学士学位。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >英语专业八级，高级教师资格证，中共党员，中学教研骨干，教龄8年。<\/span><\/span><\/span><\/span><\/li><li><span><span><span >曾任艾文翠竹校区主任、中学部部长、艾文中学教研组教研长，现任艾文英语师资部门听评课主管。<\/span><\/span><\/span><\/li><li><span ><span><span>荣获艾文培训中心教学大赛技能组第一名，个人奖第二名。<\/span><\/span><\/span><\/li><li><span ><span><span>荣获2012-2018年度优秀员工五次。<\/span><\/span><\/span><\/li><li><span><span><span >参与编写中学教材《小升初实战语法》、《中考实战语法》、《小升初冲刺教材》等。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531554170085Btivrd-gaby1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"初中"
+							]
+						}, {
+							"realname": "廖翠丹",
+							"nickname": "Belinda",
+							"result": "<ul><li><span><span><span >所带学员90%为班级及年级拔尖学员，保持学科优势。<\/span><\/span><\/span><\/li><li><span><span><span >多名优秀学员获得国际口语等级证书。<\/span><\/span><\/span><\/li><li><span><span><span >多名学员在“希望之星”及模拟联合国青少年峰会决赛表现突出，获得二等奖。<\/span><\/span><\/span><\/li><li><span><span><span >数名所带小升初学员考入四大名校。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >把每节课当公开课精心推敲打磨，因材因人施教。<\/span><\/span><\/span><\/li><li><span><span><span >擅长TPR教学模式，课堂丰富生动，高效激发孩子的积极性。<\/span><\/span><\/span><\/li><li><span><span><span >擅于引导孩子主动开口，发现规律，学会总结，不断养成课上课下自我管理的优秀习惯。<\/span><\/span><\/span><\/li><li><span><span><span >开心学习 + 快乐成长，教学风格深得学员心，教学成果赢家长一致好评。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >师范本科，专业八级，持高级教师资格证。<\/span><\/span><\/span><\/li><li><span><span><span >6年多一线教龄，同时参与一线教材教研。<\/span><\/span><\/span><\/li><li><span><span><span >曾任职梅林校区主任，学科中心小学部负责人，学科项目负责人。<\/span><\/span><\/span><\/li><li><span><span><span >现任小学部年级长，时刻关注中小学的升学资讯动态及家庭亲子类话题，综合经验丰富。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531553684313sTivrd-13.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学",
+								"初中"
+							]
+						}, {
+							"realname": "庞国明",
+							"nickname": "Martin",
+							"result": "<ul><li><span><span><span><span >所带学员近80%在班级成绩名列前三，学生保留率超过80%。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >小升初班考取四大名校学员比例近70%。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >中考班学员获得A\/A+人数超过80%。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >多名优秀学员在希望之星、全国中学生能力竞赛中取得优异成绩。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >多名优秀学员需要获得国际口语等级证书。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span ><span><span>严厉中带有幽默。<\/span><\/span><\/span><\/li><li><span ><span><span>与学生关系亦师亦友。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span><span >曾任艾文中考&amp;高中组教研员，具有丰富的教研经验。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >曾获得裘学最受欢迎老师PK赛第一名。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >参与编写精品课程教材《身临其境—英语名著》。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >在校期间曾获得希望之星大学组省赛二等奖。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >在校期间多次主持英语演讲比赛。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >国家翻译协会成员。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531553114136hsivrd-martin1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中"
+							]
+						}, {
+							"realname": "张楸",
+							"nickname": "Ivy",
+							"result": "<ul><li><span><span><span >所带学员90%均有进步，众多学员夺得班级或年级第一。<\/span><\/span><\/span><\/li><li><span><span><span><span >多名优秀学员在希望之星、全国中学生能力竞赛中取得优异成绩。<\/span><\/span><\/span><\/span><\/li><li><span><span><span >多名优秀学员取得优异成绩，获得学生和家长的一致好评和喜爱。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >轻松带有幽默的语言教学方式，清新趣味的教学风格，循序渐进的知识讲解。<\/span><\/span><\/span><\/li><li><span><span><span >在快乐中学习，在学习中感受快乐。<\/span><\/span><\/span><\/li><li><span><span><span >始于Ivy，忠于才华，陷于课堂。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span ><span>广东外语外贸大学本科，专业八级，托业高级，持教师资格证，5年教龄<\/span>。<\/span><\/span><\/span><\/li><li><span><span><span ><span>潜心研究深圳本土教材多年，熟知重难点，参与一线教研工作，<\/span>参与编写中学教材《小升初实战语法》等书籍<span>。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >曾获教师技能大赛一等奖、教师专业功底测试一等奖等多名奖项。<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531552172731DTivrd-ivy1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中"
+							]
+						}, {
+							"realname": "陈莉",
+							"nickname": "Lizzy",
+							"result": "<ul><li><span><span><span >十年小升初教学经验，累积输送到四大名校的学员500余人，考取四大名校比例均在90%以上。<\/span><\/span><\/span><\/li><li><span><span><span >五年中考教学经验，所带学员考取中考英语A的比例高达95%，A+的比例高达85%。<\/span><\/span><\/span><\/li><li><span><span><span >2018年所带中考毕业生胥同学勇夺深圳中考状语，英语满分。所带中考班A+比率高达90%以上，八大名校比率80%以上。<\/span><\/span><\/span><\/li><li><span><span><span >2017年所带中考毕业生吴同学勇夺深圳中考榜眼，其他学生均获得高分，考取八大名校。<\/span><\/span><\/span><\/li><li><span><span><span >三年国际考试托福教学经验，学员托福首考获得100分比例达75%，最高分115分。<\/span><\/span><\/span><\/li><li><span><span><span >所带初二、初三学员首考国交入学考试，英语均获得A或A+的优异成绩。<\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"featureContent": "<ul><li><span><span ><span>英语专业能力强。<\/span><\/span><\/span><\/li><li><span><span ><span>口语纯正。<\/span><\/span><\/span><\/li><li><span><span ><span>教学灵活。<\/span><\/span><\/span><\/li><li><span><span ><span>教授课程从小升初到托福，均能游刃有余。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >现任艾文教研中心负责人，负责艾文教研产品的研发工作，具有丰富的教材编写经验。<\/span><\/span><\/span><\/li><li><span><span><span >多次获得艾文培训中心优秀工作者称号。<\/span><\/span><\/span><\/li><li><span><span><span >曾任艾文校区主任、校长助理、小学部部长、中学部部长、英语教研部部长。<\/span><\/span><\/span><\/li><li><span><span><span >其编写的教材也在市场上获得较大的影响力。<\/span><\/span><\/span><\/li><li><span><span><span >主负责编写教材《小升初实战语法》、《中考实战语法》、《小升初冲刺教材》、《中考冲刺教材》、《决战中考秘籍》等十余册。<\/span><\/span><\/span><\/li><li><span><span><span >负责出品、主审精品课教材《“趣”你的语法》、《写作，从零到灵》、《拼多多 自然拼读》、《身临其境 英语名著》、《绘声绘演 绘本阅读》等十余册。<\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531551758950Neivrd-lizzy1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中",
+								"高中"
+							]
+						}, {
+							"realname": "林芳",
+							"nickname": "Melissa",
+							"result": "<ul><li><span><span><span >十年教学生涯，三年培训师经验，累计培训老师多达上千人次。<\/span><\/span><\/span><\/li><li><span><span><span >五年小升初教学经验，累计输送至四大名校的学员近百人。<\/span><\/span><\/span><\/li><li><span><span><span >三年中考教学经验，所带学生中考英语考取A的比例高达80%，A+高达60%。<\/span><\/span><\/span><\/li><li><span><span><span >2018年所带学员荣获全国中小学英语综合能力大赛全国总决赛金奖。<\/span><\/span><\/span><\/li><li><span><span><span >2017年所带学员荣获世界学生联合国首脑峰会中国区一等奖。<\/span><\/span><\/span><\/li><li><span><span><span >希望之星优秀指导老师，多名学生荣获深圳市二等奖，三等奖。<\/span><\/span><\/span><\/li><li><span><span><span >鹏程杯比赛优秀指导员，多名学生荣获全市一等奖。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span><span >英语专业能力强。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >口语纯正。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >教学灵活。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >十年教学生涯，三年培训师经验，累计培训老师多达上千场次，授课从小学至中学都游刃有余。<\/span><\/span><\/span><\/li><li><span><span><span >现任艾文教研中心小升初负责人，负责小升初课程规划及教研产品开发工作。<\/span><\/span><\/span><\/li><li><span><span><span >曾任艾文教研中心小学部负责人。<\/span><\/span><\/span><\/li><li><span><span><span >主编教材《小升初语法》、《小升初冲刺教材》、《“趣”你的语法》、《鹏程杯冲刺课程》及《希望之星冲刺课程》等。<\/span><\/span><\/span><\/li><li><span><span><span >鹏程杯优秀教练员。<\/span><\/span><\/span><\/li><li><span><span><span >希望之星优秀指导老师。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531550931105Spivrd-melissa1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中"
+							]
+						}, {
+							"realname": "袁文",
+							"nickname": "Lulu",
+							"result": "<ul><li><span><span><span >2018中考达A率 98% 、达A+ 率75% 。<\/span><\/span><\/span><\/li><li><span><span><span >八年小升初教学经验，累积输送到四大名校的学员500余人，考取四大名校比例均在90%以上。<\/span><\/span><\/span><\/li><li><span><span><span >七年中考教学经验，所带学员考取中考英语A的比例高达95%，A+的比例高达85%。<\/span><\/span><\/span><\/li><li><span><span><span >鹏程杯英语比赛优秀教练员。所辅导学生曾获得鹏程杯英语比赛全市一等奖、二等奖。<\/span><\/span><\/span><\/li><li><span><span><span >所辅导学生曾获得21世纪英语比赛全国一等奖、二等奖，希望之星英语比赛全国一等奖、二等奖，全国中学生英语能力竞赛一等奖、二等奖。<\/span><\/span><\/span><\/li><\/ul><p  ><\/p><p><\/p>",
+							"featureContent": "<ul><li><span><span><span >时而严肃，时而活泼，时而感性，时而冷静，能把英文题讲出哲学的味道，打开思维新角度，开发学习新方式。<\/span><\/span><\/span><\/li><li><span><span><span >教书独树一格，最终能帮助孩子养成良好的学习习惯，提高学习成绩，找到突破关键点，从心改变。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >现任艾文师资管理中心负责人，负责艾文教师师训，内训，新老师培训，教学技能大赛等。<\/span><\/span><\/span><\/li><li><span><span><span >多次获得艾文培训中心优秀工作者称号。<\/span><\/span><\/span><\/li><li><span><span><span >曾任艾文校区主任、听评部部长、英语师资部部长。<\/span><\/span><\/span><\/li><li><span><span><span >其编写的教材也在市场上获得较大的影响力。<\/span><\/span><\/span><\/li><li><span><span><span >主负责编写内训文件《艾文师训手册》、《艾文沟通手册》等十余册。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531550664957nTivrd-lulu1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"初中"
+							]
+						}, {
+							"realname": "谢恒",
+							"nickname": "Hannah",
+							"result": "<ul><li><span><span><span >所带98%的同学有明显进步。<\/span><\/span><\/span><\/li><li><span><span><span >辅导的多名小学学员在希望之星，全国英语竞赛等赛事拿到优异成绩。<\/span><\/span><\/span><\/li><li><span><span><span >所带六年级学员表现优异进入四大名校。<\/span><\/span><\/span><\/li><li><span><span><span >所带初中学员在学校年级英语单科前三，班级综合第一。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >教学经验丰富，从小学低年级到高年级，初中年级都游刃有余。<\/span><\/span><\/span><\/li><li><span><span><span >每一节课积极投入，上课富有激情和亲和力，充分与每一位同学互动，让同学全身心投入全英课堂，做到“敢于开口说，乐于开口说，积极开口说”。<\/span><\/span><\/span><\/li><li><span><span><span >课后对每一位同学课后笔头作业和口头作业进行检查追踪，培养同学们良好的学习习惯，紧抓基础，力争优秀，让每位学生都能学有所成。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >英语教育专业毕业，英语文学学士，获得专八证，高级教师资格证，剑桥商务英语证。<\/span><\/span><\/span><\/li><li><span ><span><span>曾任朗文组&amp;小升初组&amp;初中组教学团队核心成员，具有丰富的教学经验，听评课多次得到优秀评价。<\/span><\/span><\/span><\/li><li><span ><span><span>参与编写精品课程教材《艾文小升初寒春教材》等。<\/span><\/span><\/span><\/li><\/ul><p><\/p><p><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/15315494553030Sivrd-hannah1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学",
+								"初中"
+							]
+						}, {
+							"realname": "伍倪依",
+							"nickname": "Gracie",
+							"result": "<ul><li><span ><span><span>10年教学生涯，带出优秀学员近千人。<\/span><\/span><\/span><\/li><li><span ><span><span>所带学员李庆泓取得2016年广东省高考文科状元。<\/span><\/span><\/span><\/li><li><span ><span><span>所带学员李心蕙取得希望之星高中组深圳总分第一名。    <\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span ><span>美语发音，口语地道。<\/span><\/span><\/span><\/li><li><span><span ><span>上课风趣幽默，节奏紧凑。 <\/span><\/span><\/span><\/li><li><span ><span><span><span>主张语言的学习绝对不是死记硬背，语感才是王道，会读就会拼，会说就能写，只有系统的学习才能系统的复习和记忆。<\/span><\/span><\/span><\/span><\/li><\/ul><p><br\/> <\/p>",
+							"through": "<ul><li><span><span><span >艾文英语品牌教师。<\/span><\/span><\/span><\/li><li><span><span><span >毕业于浙江工商大学，获英国剑桥圣三一学院GESE考试培训师资格证书。<\/span><\/span><\/span><\/li><li><span><span><span >从事英语教学工作10年，从艾文经典教材的编纂到托福、雅思的专业探索，发现学生在英语学习中最大的短板，即积累和应用的脱节。<\/span><\/span><\/span><\/li><\/ul><p><\/p><p><\/p><p><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531548825504dXivrd-gracie1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"初中",
+								"高中"
+							]
+						}, {
+							"realname": "欧宇",
+							"nickname": "Angela",
+							"result": "<ul><li><span><span><span><span >十一年小升初教学经验，累积输送到四大名校的学员500余人，考取四大名校比例均在90%以上。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >五年中考教学经验，所带学员考取中考英语A的比例高达95%，A+的比例高达85%。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >所带学员初一初二和小学学员，高中学员进步明显，期末成绩均显著提高10-30分。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >学生学习习惯得到改进，深受家长欢迎。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >鹏程杯英语比赛优秀教练员，希望之星优秀指导老师。所辅导学生曾获得鹏程杯英语比赛全市一等奖、二等奖，希望之星全国一等奖、二等奖。<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"featureContent": "<ul><li><span><span><span><span >授课风格幽默且严格，课堂上严格要求，注重学生习惯养成。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >课堂下和学生能成为好朋友。<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"through": "<ul><li><span><span><span><span><span >教学经验丰富，从小学低年级到高年级，中学到高中都游刃有余。<\/span><\/span><\/span><\/span><\/span><\/li><li><span><span><span><span><span >熟悉深圳小学教材和授课方式，具备教授艾文原创教材、新概念、朗文、剑桥、上教版，新派等不同教材的丰富经历，知识面广。<\/span><\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >现任艾文师资中心负责人，负责艾文教师招聘和培训，具有丰富的师训经验。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >多次获得艾文培训中心优秀工作者称号，各类评比均名列前茅。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >负责编写《艾文师训手册》、《艾文老师工作指南》、《艾文沟通手册》、《艾文老师岗位职责》等十余册。<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531548352398YPivrd-angela1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中",
+								"高中"
+							]
+						}, {
+							"realname": "陈粤宁",
+							"nickname": "Ivan",
+							"result": "<ul><li><span><span><span >高考英语单科全省第三名。<\/span><\/span><\/span><\/li><li><span><span><span >2008年-2017年带出多名学员考取美国一流大学。<\/span><\/span><\/span><\/li><li><span><span><span >多名学员在中考及市外考试中取得本市前三名，所带中考冲刺班A+率为95%。 <\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "",
+							"through": "<ul><li><span><span><span >裘学平台创始人，艾文培训中心创始人。<\/span><\/span><\/span><\/li><li><span><span><span >师范大学英语教育专业毕业，英语文学学士，专业八级。<\/span><\/span><\/span><\/li><li><span >曾任亚洲博鳌论坛口译员，自编《艾文英语》全套教学体系。<\/span><\/li><\/ul><p><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180715\/1531628730466B6ivrd-ivan1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中"
+							]
+						}, {
+							"realname": "郑优",
+							"nickname": "Alice",
+							"result": "<ul><li><span ><span><span>80%的学生能够很好的形成良好的学习习惯，掌握良好的学习方法，对英语的兴趣提高。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<p><\/p><ul><li><span><span><span><span >口语流利，富有激情。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >课堂生动活泼，魅力无穷。<\/span><\/span><\/span><\/span><\/li><li><span ><span><span>因材施教，关心鼓励不同阶段学生，将知识教授与能力培养相结合。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >英语学士学位和经济学学士学位。<\/span><\/span><\/span><\/li><li><span ><span><span><span>教学经验丰富，熟悉深圳中小学校教材和授课方式，知识面广。<\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span>参与艾文原创教材《“趣”你的语法》、《拼多多—自然拼读》、《绘声绘演—绘本阅读》等的编写。<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p><p><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531546822693pcivrd-alice1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学三年级",
+								"小学四年级"
+							]
+						}, {
+							"realname": "王俊玲",
+							"nickname": "Meyo",
+							"result": "<ul><li><span><span ><span><span >所带学生在小学毕业考获得平均第一。<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >所辅导学生曾获得“星星火炬”全国少年儿童英语风采展示活动全国总决赛金奖，英语话剧比赛一等奖，英语口语比赛一等奖。<\/span><\/span><\/span><\/span><\/li><\/ul><p><span><span ><span><span > <\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<ul><li><span><span ><span><span >有态：教学态度认真。<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >有型：幽默风趣。<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >有变：风格多变，时而温柔亲切，时而滑稽搞笑，时而严肃认真。<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >有放：常设置开放性问题，注重培养学生的英语综合能力以及开放性思维能力，激发学生的无限潜能，保护他们的创意思考，绝不框住他们。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li> <span><span ><span><span >六年小学教学经验，包含三年小升初教学，所带学生成绩提升率均在90%以上。<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span > 现任艾文教研中心小学英语教师。<\/span><\/span><\/span><\/span><\/li><\/ul><p><span><span ><span><span > <\/span><\/span><\/span><\/span><\/p><p> <\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180712\/1531386557465H0ivrd-Meyo1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学六年级"
+							]
+						}, {
+							"realname": "曹梅",
+							"nickname": "Ella",
+							"result": "<p><\/p><ul><li><span><span ><span>多名学生从考试仅及格转变成“英语优等生”。<\/span><\/span><\/span><\/li><li><span><span ><span>所带学生95%学习成绩进步显著，既能学会灵活运用语言，又能轻松应对考试。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span ><span>善用启发式教学、“点亮式”教学，激发学生的学习热情和兴趣。<\/span><\/span><\/span><\/li><li><span><span ><span>英语文化的精髓是“自由自然”，尊重孩子的个性和鼓励创新。<\/span><\/span><\/span><\/li><li><span><span ><span>把沉默无语的教材变成“艺术品”，晶莹剔透地愉悦呈现。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >多年英语教学经验，具备丰富的教育教研经验。<\/span><\/span><\/span><\/li><li><span><span><span >多次被评为“倍受学生喜爱的老师”称号。<\/span><\/span><\/span><\/li><li><span><span><span><span >参与艾文内训教材的编写，如《英语名著》、《自然拼读》等。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180712\/1531386422744TAivrd-ella1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"学前",
+								"小学",
+								"初中",
+								"高中"
+							]
+						}, {
+							"realname": "李梦华",
+							"nickname": "Tracy",
+							"result": "<ul><li><span ><span><span><span>五年小学教学经验，所教学生<\/span>学习兴趣提升，<span>提分明显，高达10~50分，小升初升入名校比率高。<\/span><\/span><\/span><\/span><\/li><li><span ><span ><span><span>与家长学生之间长期保持友好关系，获得广大学员和家长的认可和喜爱。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span ><span ><span><span><span>课堂活泼、有趣，<\/span>善于充分运用肢体语言组织好课堂。<\/span><\/span><\/span><\/span><\/li><li><span ><span ><span><span>教学环节环环相扣，层层递进。<\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span>善于运用丰富有趣的游戏与PK，激发学生英语学习的兴趣与积极性。<\/span><\/span><\/span><\/span><\/li><li><span ><span ><span><span>有耐心、爱心、责任心，鼓励关爱每一个学生。<\/span><\/span><\/span><\/span><\/li><\/ul><p><span><span> <\/span><\/span><\/p><p><span><span> <\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span>参与编写艾文原创《拼多多—自然拼读》、《绘声绘演—绘本阅读》《身临其境—英语名著》等多本教材。<\/span><\/span><\/span><\/li><li><span><span><span >有英国小学原版教材 Oxford Primary Skills系列的教学经验。<\/span><\/span><\/span><\/li><li><span><span><span >亚洲学生奥林匹克英语演讲大赛（中国区）选拔赛优秀指导教师。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180712\/1531386394769iXivrd-Tracy1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"学前",
+								"小学"
+							]
+						}, {
+							"realname": "杨峥",
+							"nickname": "Rachel",
+							"result": "<ul><li><span ><span><span>丰富的中考教学经验，所带学员考取中考英语A的比例高达95%，A+的比例高达85%。<\/span><\/span><\/span><\/li><li><span ><span><span>丰富的小学教学经验，用乐趣引导孩子主动学习，深受学生和家长喜欢。<\/span><\/span><\/span><\/li><li><span ><span><span>所教学生80%形成良好的学习习惯，掌握良好的学习方法，对英语兴趣大幅度提高。<\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"featureContent": "<ul><li><span><span ><span><span>授人以鱼不如授人以渔，学会学习有时比学习更重要。<\/span><\/span><\/span><\/span> <\/li><li><span><span><span ><span>因材施教，将知识教授与能力培养相结合。<\/span><\/span><\/span><\/span><\/li><li><span><span><span ><span>倡导快乐学习，让学生从此爱上英语。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >艾文教研中心成员之一，负责艾文教研产品的研发工作，具有丰富的教材编写经验。<\/span><\/span><\/span><\/li><li><span><span><span >曾多次为柳子庙等旅游文化节做翻译 。<\/span><\/span><\/span><\/li><li><span><span><span >负责小升初学生的课后监察和辅导工作，开展少儿英语课外活动。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180712\/1531386374199dxivrd-Rachel1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中"
+							]
+						}, {
+							"realname": "尹雪",
+							"nickname": "Mia",
+							"result": "<ul><li><span ><span><span><span >小升初班考取四大名校比例75%以上。<\/span><\/span><\/span><\/span><\/li><li><span><span><span >小学教学经验丰富，<span >所带学员85%位列所在班级前三名。<\/span><\/span><\/span><\/span><\/li><li><span><span><span >教学功底深厚，所带学员考取中考英语A的比例高达90%，A+的比例高达80%。<\/span><\/span><\/span><\/li><li><span ><span><span><span >多名优秀成员在希望之星、全国中学生能力竞赛中取得优异成绩。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span ><span><span >教学方式灵活多样，因材施教。<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >课堂气氛活跃，注重与学生的实时互动，让学生主动开口。<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >竭力做学生学习道路上的引导者，让其发现学习的乐趣，注重培养学生的自主学习能力。<\/span><\/span><\/span><\/span><\/li><\/ul><p><span><span ><span><span > <\/span><\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span >师范专业毕业，<\/span><\/span><span>熟悉深圳小学各大教材和授课方式，具备教授艾文原创教材、新概念、朗文、剑桥、上教版等不同教材的丰富经历，知识面广。<\/span><\/span><\/li><li><span><span><span >参与艾文原创《“趣”你的语法》、《拼多多—自然拼读》、《身临其境—英语名著》、《绘声绘演—绘本阅读》多本教材的编写。<\/span><\/span><\/span><\/li><li><span><span><span >艾文教研中心成员之一，负责艾文教研产品的研发工作，具有丰富的教材编写经验。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180712\/1531386305070gGivrd-Mia1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"学前",
+								"小学",
+								"初中"
+							]
+						}, {
+							"realname": "黄金",
+							"nickname": "Goldie",
+							"result": "<ul><li><span ><span><span>多次策划并组织青少年英语口语大赛，同时担任大赛评委。<\/span><\/span><\/span><\/li><li><span><span><span >所带尖尖班学生90％顺利考入市重点高中国际部。<\/span><\/span><\/span><\/li><li><span><span><span >85％以上基础薄弱的学生成绩都大幅度提高，学生续费率达90％，深受广大家长及学生们的喜爱与好评。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >亲和温雅，细致又有耐心，是学生们的良师益友。<\/span><\/span><\/span><\/li><li><span><span><span >注重培养学生们的学习兴趣和积极主动性。<\/span><\/span><\/span><\/li><li><span><span><span >因材施教，制定个性化的学习方案，授课方式灵活多变。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span ><span><span>英语教育专业毕业，英语专业八级，持高级英语教师资格证。<\/span><\/span><\/span><\/li><li><span ><span><span>小升初、初中英语教学经验丰富，6年小班及一对一教龄，具备丰富的跨年龄阶段授课经验，在课程开发及授课管方面积累了大量实战经验。<\/span><\/span><\/span><\/li><li><span ><span><span>曾在大型机构任教两年，熟悉深圳本地教材。<\/span><\/span><\/span><\/li><li><span ><span><span>参与艾文原创教学体系的建立。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531564995905Nxivrd-金子1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级"
+							]
+						}, {
+							"realname": "王琨皓",
+							"nickname": "Alex",
+							"result": "<ul><li><span><span><span ><span>学生文俊 ，2016届宝安区中考状元，深圳市第3名，考入深圳实验学校。<\/span><\/span><\/span><\/span><\/li><li><span><span><span ><span >在过去6年一线教学中，多名学生进入深圳四大名校，成绩均有较大幅度提高。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span ><span>风趣幽默，富有激情，循循善诱，一视同仁。<\/span><\/span><\/span><\/span><\/li><li><span><span><span ><span >善于汲取优秀传统文化基因，融入课堂，寄希望于培养出学贯中西、博古通今的人才。<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"through": "<ul><li><span><span><span ><span>从2008年走上讲台，至今已有10年之久。<\/span><\/span><\/span><\/span><\/li><li><span><span><span ><span >10年磨一剑，只为一颗热爱教育的心。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180712\/1531386065311r0ivrd-alex1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"初中"
+							]
+						}, {
+							"realname": "张蒂",
+							"nickname": "Kirsty",
+							"result": "<ul><li><span>注重英语口语教学，基本使学生和哑巴英语说再见。<\/span><\/li><li><span>学生在指导下，积极主动参与，90%以上的学生掌握了有效的学习方法，获得了知识，发展了能力，有积极的情感体验。<\/span><\/li><li><span><span>学生成绩进步快，热爱学习，所教学生大部分在全年级近千人中排名均很靠前。<\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >引导学生自主学习，在教学过程中避免填鸭式的知识满堂灌，改变以往教师主动、学生被动的情况。<\/span><\/span><\/span><\/li><li><span><span><span><span >善于用自己的热情去感染学生，让学生从此爱上英语。<\/span><\/span><\/span><\/span><\/li><li><span><span><span >培养学生思维能力，做到授之以鱼，不如授之以渔。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span><span >获得BEC中级证书、英语专业八级证书。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >小学、初中教学经验丰富。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >熟悉深圳学校教材和授课方式。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >充分了解艾文原创教材、新概念、朗文等英文教材，知识面广泛。<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180715\/1531620970147Q2ivrd-kristy1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"学前",
+								"小学低年级"
+							]
+						}, {
+							"realname": "刘倩",
+							"nickname": "Fora",
+							"result": "<ul><li><span ><span><span>所带学生90%以上对英语产生了浓厚的兴趣，大部分学生取得显著进步。<\/span><\/span><\/span><\/li><li><span ><span><span>指导学生多位在竞赛中获得一、二等奖。<\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"featureContent": "<ul><li><span><span><span >创设和谐的学习气氛，激发学生学习英语的兴趣。<\/span><\/span><\/span><\/li><li><span><span><span >注重学生经验和方法的积累，采用手、口、脑相结合的形式，进行讨论和抢答。<\/span><\/span><\/span><\/li><li><span><span><span >课内外相结合，保持和学生的良性互动，巩固教学成果。<\/span><\/span><\/span><\/li><li><span><span><span >注重学生良好学习习惯的养成。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span ><span><span>教学经验丰富。<\/span><\/span><\/span><\/li><li><span ><span><span>熟悉深圳学校教材和授课方式，具备教授艾文原创教材、新概念、朗文、剑桥、上教版等多种教材的能力。<\/span><\/span><\/span><\/li><li><span ><span><span>喜爱学生，具有亲和力，深受学生和家长的喜爱。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531535099864Asivrd-fura1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"学前",
+								"小学三年级"
+							]
+						}, {
+							"realname": "班婷婷",
+							"nickname": "Monica",
+							"result": "<ul><li><span><span ><span>所带班级在中考取得当地第二的好名次。<\/span><\/span><\/span><\/li><li><span><span ><span>所带学生在2018年高考被清华大学录取。<\/span><\/span><\/span><\/li><li><span><span ><span>所带学生学习兴趣提升较快，学习成绩进步率在90%以上。<\/span><\/span><\/span><\/li><li><span><span ><span>多次参加教学技能大赛，并在“教学能手大赛”中获得一等奖。<\/span><\/span><\/span><\/li><li><span><span ><span>教学事迹被市晚报记载，深受广大家长、学生的喜爱和认可。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >课堂气氛活跃，善于与学生沟通。<\/span><\/span><\/span><\/li><li><span><span><span >教学重难点拿捏到位，让学生享受学习的过程，带动学生的学习热情和积极性，高效帮助学生提高学习成绩。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span ><span><span>2007年至2017年，在公立学校任教，并担任学科带头人、课改带头人。<\/span><\/span><\/span><\/li><li><span ><span><span>主带中学英语，教授课材包括新概念、新课标、上教版等，具有丰富的中学英语教学经验。<\/span><\/span><\/span><\/li><li><span ><span><span>2018入职“裘学”艾文英语，成为教学骨干老师。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/15315342451648rivrd-monica1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"初中"
+							]
+						}, {
+							"realname": "曾本秀",
+							"nickname": "Juno",
+							"result": "<ul><li><span ><span><span>教授小学1年级到6年级的学生，所带孩子基本都在90分以上，英语科目常常取得全班第一，获得了家长的认可和信任 。<\/span><\/span><\/span><\/li><li><span ><span><span>教过剑桥少儿英语班，课堂活跃，让孩子们爱上学英语，是培养孩子兴趣的能手。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >教学灵活多变，课堂氛围十分活跃，生动有趣，孩子们很享受上课的时光。<\/span><\/span><\/span><\/li><li><span><span><span >有耐心，善于抓住孩子的性格特点，因材施教，同时注重孩子学习习惯的养成。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >曾任教于国际幼儿园，经验丰富，主带过小班和大班的小朋友，善于培养孩子兴趣，温柔耐心。<\/span><\/span><\/span><\/li><li><span><span><span >曾任大型机构幼儿及小学英语老师，三年教龄，教学期间深受孩子和家长的喜欢，与孩子家长们成为知心好朋友。<\/span><\/span><\/span><\/li><li><span><span><span >教学涉及课材广，内容丰富，擅长教授剑桥少儿英语、朗文少儿英语、自然拼读、音标课、少儿歌曲、绘本阅读等课程。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531533605810ERivrd-juno1.jpg",
+							"disciplinesText": [
+								"早教",
+								"英语"
+							],
+							"gradeText": [
+								"学前",
+								"小学低年级"
+							]
+						}, {
+							"realname": "易宇含",
+							"nickname": "Emma",
+							"result": "<ul><li><span><span><span >丰富的小学初中教学辅导经验，所带学生95%英语成绩取得巨大突破。<\/span><\/span><\/span><\/li><li><span><span><span >熟悉艾文英语的教材与授课内容，能最大程度地让学生吸收课堂教学内容。<\/span><\/span><\/span><\/li><li><span><span><span >多次辅导学生参与英语比赛，荣获一二等奖。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span ><span><span>对教材掌握比较好，能掌握本单元以及本节课的教学目标、重难点。<\/span><\/span><\/span><\/li><li><span ><span><span>在教学过程中，以问题的形式呈现教学目标，学生有目标、有方向。<\/span><\/span><\/span><\/li><li><span ><span><span>学风格亲切自然，生动形象，机智诙谐，动人心弦。<\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"through": "<ul><li><span><span><span >毕业于高等财经类院校，在校期间有丰富的教学经验。<\/span><\/span><\/span><\/li><li><span><span><span >多次参与初中生英语冬令营活动，运用活跃的教学方式，教学成果成果突出，深受学生喜爱。<\/span><\/span><\/span><\/li><li><span><span><span >丰富的小学初中经验，精确掌握课本知识与考点，能最大程度的帮助学生了解与掌握考点知识，提高成绩。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180713\/1531487592071reivrd-emma1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"学前",
+								"小学"
+							]
+						}, {
+							"realname": "赵鹏",
+							"nickname": "Jacky",
+							"result": "<ul><li><span><span><span><span >所带学生90%以上对英语产生了浓厚的兴趣，大部分学生取得显著进步。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >指导学生多位在竞赛中获得优异成绩。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span><span >上课有趣有料，深受学生的喜欢。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >善用互动式教学，寓教于乐。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >理解孩子心理，循循善诱，平易近人。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >211师范院校毕业，英语专八，精通口语。<\/span><\/span><\/span><\/li><li><span><span><span >教学经验丰富，针对小学和初中学员，提分明显。<\/span><\/span><\/span><\/li><li><span><span><span >担任过大型活动的中英翻译工作，经常与外国人交流。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180728\/15327519223901Uivrd-微信图片20180728121505.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"初中"
+							]
+						}, {
+							"realname": "李鸿香",
+							"nickname": "Hailey",
+							"result": "<ul><li><span><span><span><span >所带学生80%以上对英语产生了浓厚的兴趣，大部分学生取得显著进步。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >指导学生多位在竞赛中获得优异成绩。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >善于启发学生，教学方式既有趣，更有效。<\/span><\/span><\/span><\/li><li><span><span><span >关心孩子，注重学习习惯养成。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span><span >教学经验丰富。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >熟悉深圳学校教材和授课方式，具备教授艾文原创教材、新概念、朗文、剑桥、上教版等多种教材的能力。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >喜爱学生，具有亲和力，深受学生和家长的喜爱。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180728\/1532745582295fyivrd-李鸿香英文名hailey1.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学一年级",
+								"小学二年级"
+							]
+						}, {
+							"realname": "卢婉",
+							"nickname": "Maple",
+							"result": "<ul><li><span><span><span >2017—2018学年所带学生90%英语成绩大幅度提升，得到家长一致认可。<\/span><\/span><\/span><\/li><li><span><span><span >2018年至今所带学生90%以上英语成绩在校名列前茅。<\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"featureContent": "<ul><li><span><span><span >上课风格风趣幽默，而且在教学中也会尽最大努力提高孩子们对学习英语的兴趣，迅速提高英语成绩。<\/span><\/span><\/span><\/li><li><span><span><span >英语课堂环境创设接近学生的实际生活，利用学生过去学过的知识，设计和演练与学生文化相近、便于他们理解的教学活动。<\/span><\/span><\/span><\/li><li><span><span><span >英语口语流利，全英授课，让孩子体验母语式教学，运用英语的思维方式思考，减少不必要的弯路。<\/span><\/span><\/span><\/li><li><span><span><span >善于与孩子沟通，了解13-16岁孩子的心理变化，亦师亦友，深受孩子们的喜爱。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >外国语大学毕业 ，英语专业八级。<\/span><\/span><\/span><\/li><li><span><span><span >了解深圳各中学英语课程体系及重要考点，对各校中考题了如指掌。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180728\/1532749723343Jcivrd-999.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"初中一年级",
+								"初中二年级"
+							]
+						}, {
+							"realname": "王影",
+							"nickname": "Betty",
+							"result": "<ul><li><span><span><span >所教多名学生获得沈阳市牛津杯口语大赛幼儿组一等奖，二等奖，三等奖。<\/span><\/span><\/span><\/li><li><span><span><span >所带学员成绩进步明显。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >课堂活泼有趣，充分调动学生的学习热情和积极性。<\/span><\/span><\/span><\/li><li><span><span><span >培养学生的学习兴趣和自主学习能力。<\/span><\/span><\/span><\/li><li><span><span><span >亲和力强，让学生从此爱上英语。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >两年幼儿英语启蒙师工作经历，擅长英文绘本和自拼教学。<\/span><\/span><\/span><\/li><li><span><span><span >两年小学英语教师工作经历，所带学员成绩进步明显。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180806\/1533523644467Lrivrd-betty.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学"
+							]
+						}
+					]
+				}, {
+					"value": "Embolen",
+					"text": "英博伦少儿英语工作室",
+					"data": [
+						{
+							"realname": "Helen",
+							"nickname": "Helen",
+							"result": "<p><span><span><span ><span>以浸入式英语学习为教学法让孩子从小爱上学习英语<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span><span ><span>小班制的课堂、全外教授课、亲切和蔼<\/span><\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span ><span>多年教龄<\/span><\/span><\/span><\/li><li><span><span ><span>英博伦创始人<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180715\/1531625691390gQivrd-微信图片20180714112850.jpg",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"学前",
+								"小学低年级"
+							]
+						}
+					]
+				}, {
+					"value": "shanpei",
+					"text": "善培教育工作室",
+					"data": [
+						{
+							"realname": "姬红波",
+							"nickname": "Mark",
+							"result": "<p><span><span ><span>教学效果显著，切实提高学生考试成绩，2018年海南省高考第七名王可杰。<\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span><span >教学方法深入浅出，学生容易理解和应用。教学风格幽默风趣，课堂气氛轻松愉悦。<\/span><\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span ><span><span ><span>西方国际教育及善培英语创始人<\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>美国马里兰州美泰教育教学顾问<\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>美国CHAPELGATE中学国际部客座教授<\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>拥有语言学和外语高等学校教师资格证<\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>在校期间荣获过“海南师范大学首届教师技能大赛第一名”<\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>“海南2005年十九所高校技能大赛十佳”等殊荣<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180715\/1531622428161uFivrd-微信图片20180524160605.png",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"初中",
+								"高中"
+							]
+						}, {
+							"realname": "陆义闯",
+							"nickname": "Vic",
+							"result": "<p><span><span ><span><span >学生口语进步迅猛，85%的学员口语流利地道<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span><span >以学生为中心，在充分尊重学生的个性前提下因材施教；互动式教学，课堂气氛轻松活跃，能够有效调动学生的积极性，提高学习兴趣，帮助学生建立自信，养成良好的学习习惯，逐步构建受用终身的自主学习能力。<\/span><\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span ><span><span >具有多年香港和内地教育教学经验，拥有超前的学科教学理念和超强的课程设计能力<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >熟悉学生心理和行为特点，善于与学生交流沟通<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180715\/1531622210542Lcivrd-微信图片20180524160602.png",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学"
+							]
+						}, {
+							"realname": "林晶晶",
+							"nickname": "Gigi",
+							"result": "<ul><li><span><span ><span>曾接手一名考试只有40分的深圳高级中学的初一学生，经过3次课后，便提高到了60多分<\/span><\/span><\/span><\/li><li><span><span ><span>曾接手一名考试20多分，语法知识空白的美术艺考学生，经过一期课程16次课后，能考到60多分<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span ><span>年轻，能跟学生打成一片，能与学生建立很好地亦师亦友的关系<\/span><\/span><\/span><\/li><li><span><span ><span>用年轻人的视角，采用学生喜欢的、新兴的、有趣的上课方式，让学生爱上课<\/span><\/span><\/span><\/li><li><span><span ><span>教育界优秀的喜剧演员：以诙谐幽默的教学方式，创造了欢乐课堂！让学生在快乐中学习，在学习中享受快乐！做到真正的寓教于乐！<\/span><\/span><\/span><\/li><li><span><span ><span>化繁为简：擅长把复杂的语法点，结合现实生活的例子，用简单易懂的语言，解决学生的痛点！<\/span><\/span><\/span><\/li><li><span><span ><span>独门解题秘籍：拥有独特的解答阅读理解的方法，大大提高学生做阅读理解的速度和正确率！<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<p><span><span ><span><span >从教多年，熟悉初中英语考点<\/span><\/span><\/span><\/span><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180715\/15316221515379bivrd-微信图片20180524160559.png",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"初中"
+							]
+						}, {
+							"realname": "蔡灵芝",
+							"nickname": "Jessica",
+							"result": "<p><span><span ><span><span >所带学员80%进步明显<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<ul><li><span ><span><span><span ><span>追求以学生为中心的引导式教学模式，让学生在学习过程中不但收获知识，而且能够培养良好的学习习惯和文化品质。<\/span><\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>亲切随和，温暖有爱的性格以及幽默风趣的教学方式备受学生喜欢。<\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>擅长于在自然拼读教学中，建立学生的学习自信心，培养学生的英语兴趣和自主学习意识。<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p><p><\/p>",
+							"through": "<p><span><span ><span><span >多年的从教经历，<span>对各种考试有一定的研究，语法知识扎实，善于将繁琐的语法知识化繁为简，带你抽英语之丝，剥英语之茧，轻松掌握英语语法。<\/span><\/span><\/span><\/span><\/span><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180715\/1531621651840t4ivrd-微信图片20180524160552.png",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中一年级"
+							]
+						}
+					]
+				}, {
+					"value": "xinketang",
+					"text": "新课堂教育工作室",
+					"data": [
+						{
+							"realname": "吴冬亮",
+							"nickname": "Doly",
+							"result": "<p><span><span ><span> 所带学员80%进步明显，众多学员考试保持班级前三。 <\/span><\/span><\/span><\/p>",
+							"featureContent": "<ul><li><span ><span><span ><span>废话不多，课堂高效，干货满满学生<\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>尊重班规和老师尊重学生相结合<\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>坚持劳逸结合，善于设计游戏教学，适当的游戏让学生学习热情更高亢<\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>坚持课堂高效学习和课后有效监督相结合<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p><p><\/p><p><\/p>",
+							"through": "<ul><li><span><span ><span> <span ><span>毕业于外国语学院英语教育专业<\/span><\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span ><span>中共党员，英语专业八级<\/span><\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span ><span>获得高级教师资格证，12年英语教学经验<\/span><\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span ><span>两度担任校区负责人，多次被评为优秀教师<\/span><\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/15315340987711Eivrd-微信图片20180621163917.png",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学"
+							]
+						}, {
+							"realname": "陈云",
+							"nickname": "Bruce",
+							"result": "<ul><li><span><span ><span>所教学生都可以做到知礼明理<\/span><\/span><\/span><\/li><li><span><span ><span>每届毕业班都有考取五大校的学生<\/span><\/span><\/span><\/li><li><span><span ><span>非毕业班成绩都有明显进步，不及格到90分只需一学期<\/span><\/span><\/span><\/li><li><span><span ><span>KET考级班全部130+以上（满分150），其中一人147<\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"featureContent": "<ul><li><span><span ><span>轻松活泼，欢快有趣<\/span><\/span><\/span><\/li><li><span><span ><span>善于调动学生气氛，提升学习兴趣<\/span><\/span><\/span><\/li><li><span><span ><span>因材施教，一千个孩子两千种教法<\/span><\/span><\/span><\/li><li><span><span ><span>认真负责，不抛弃不放弃<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span ><span><span><span >新课堂英语组组长<\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span >5年小学初中教学经验<\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span >持有美国TESOL教师资格证<\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span >持有台湾Readers’ Theater 培训资格证<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531533713555xAivrd-微信图片20180622122952.png",
+							"disciplinesText": [
+								"英语"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中一年级"
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"id": "2",
+			"value": "chinese",
+			"name": "语文",
+			"list": [
+				{
+					"value": "siyuxuan",
+					"text": "思语轩语文工作室",
+					"data": [
+						{
+							"realname": "白雪岩",
+							"nickname": "",
+							"result": "<ul><li><span><span ><span><span > 对教材的难易点有精准的把握，能够高效地把知识点传授给学生，让学生学以致用！<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span > 在8年的一线教学中，较高的学生保留率体现着学生的喜爱和家长的信任！<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span > 所带学员都有不同程度的进步，多名学生进入名校，以18年小升初为例，所带学员20%考入四大名校。<\/span><\/span><\/span><\/span><\/li><\/ul><p> <\/p>",
+							"featureContent": "<ul><li><span><span ><span><span >北方人的她普通话标准，富有亲和力。<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >深知教育不是约束，而是培养学生兴趣、要让学生学会思考、归纳、创新，让孩子享受学习的快乐！<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p><p><\/p>",
+							"through": "<ul><li><span><span ><span>从事语文教学工作8年<\/span><\/span><\/span><\/li><li><span><span ><span>持有高级教师资格证<\/span><\/span><\/span><\/li><li><span><span ><span>全国冰心文学大赛优秀辅导老师<\/span><\/span><\/span><\/li><li><span><span ><span>最强大脑李威讲师团骨干<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180712\/1531367664923J1ivrd-13.png",
+							"disciplinesText": [
+								"语文"
+							],
+							"gradeText": [
+								"小学高年级"
+							]
+						}, {
+							"realname": "张艳",
+							"nickname": "",
+							"result": "<ul><li><span><span ><span><span > 熟悉小学初中教材，善于把握教材中的重难点，培养出大批的班级第一，年级前三的优秀学生，为小升初及中学输送优质学员，学生保留率90%<\/span><\/span><\/span><\/span><\/li><\/ul><p> <\/p>",
+							"featureContent": "<ul><li><span><span ><span><span >严谨不失幽默，课堂教学扎实<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p><p><\/p>",
+							"through": "<ul><li><span><span ><span>从事教学工作14年<\/span><\/span><\/span><\/li><li><span><span ><span>原深圳及武汉、山西知名教育机构分校校长<\/span><\/span><\/span><\/li><li><span><span ><span>全国冰心文学大赛优秀组织者<\/span><\/span><\/span><\/li><li><span><span ><span>历届家长满意度95%以上<\/span><\/span><\/span><\/li><li><span><span ><span>课程研发团队骨干<\/span><\/span><\/span><\/li><li><span><span ><span>现分管教学培训研发，参与编写机构教材及相关教辅资料<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "https://vteach-file-1.oss-cn-shenzhen.aliyuncs.com/20180112/zhangyan.jpg",
+							"disciplinesText": [
+								"语文"
+							],
+							"gradeText": [
+								"小学"
+							]
+						}
+					]
+				}, {
+					"value": "ivan",
+					"text": "艾文培训中心",
+					"data": [
+						{
+							"realname": "朱嘉诚",
+							"nickname": "",
+							"result": "<ul><li><span><span><span >所带学员单科成绩明显提升，多数学员中考语文获得A.<\/span><\/span><\/span><\/li><li><span><span><span >所培养的尖子生顺利考入深中、深外等名校。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<p><\/p><ul><li><span><span><span >自号“蠹虫”，嗜书如命。古今中外，名家大作，杂家小说，皆有所好。非诗词文赋不能阅，非雪月风花不能言。好诗，尝拜观海师门下，学诗三年。<\/span><\/span><\/span><\/li><li><span><span><span >仆窃不逊，近自托于先贤之辞，网罗天下新闻旧事，略考四史，综其始终，稽其成败兴坏之纪，用于治人。今入孔门，醉心裘学，授业之道，一张一弛，寓教于乐，一往而情深矣！<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span><span >艾文培训中心中学语文骨干教师、中学语文教材编写人。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >汉语言文学专业毕业，文学学士学位。师从武汉大学石观海教授，学习古代汉语、古代文学史、诗词格律。<\/span><\/span><\/span><\/span><\/li><li><span><span><span >教学经验丰富，艾文语文中学教材编者，脚踏实地的教育实践者，教学跨度从小学小升初到中学三年，无缝衔接。<\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531560580452Joivrd-朱家成1.jpg",
+							"disciplinesText": [
+								"语文"
+							],
+							"gradeText": [
+								"小学六年级",
+								"初中"
+							]
+						}, {
+							"realname": "陈晓芳",
+							"nickname": "",
+							"result": "<ul><li><span><span><span><span >扎根深圳小学语文教学一线近十年，培养上百名一届又一届的深圳名校学员。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >所带学员百分之九十八以上都会提升语文成绩，增强语文学习兴趣。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li  ><span><span><span><span >以增强语文学习兴趣为根，以提升语文学习能力为本。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >准确定位学生语文学习特点，合理规划学生学习思路。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >注重语文阅读兴趣和思维的培养，注重文字鉴赏能力的养成。<\/span><\/span><\/span><\/span><\/li><li  ><span><span><span><span >以“知心大姐姐”和“严师”的双重角色感引领孩子感受语文的魅力。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >“轻松、高效、深刻”的教学特色广受学生及家长的喜爱和认可。<\/span><\/span><\/span><\/span><\/li><\/ul><p> <\/p>",
+							"through": "<ul><li><span><span><span><span >在深圳实践小学语文教育近十年，深谙深圳小升初名校资讯及考试范围、重难点。<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >能够快速准确定位各“段位”学员的语文学习特点，针对性给予学习建议和指导。<\/span><\/span><\/span><\/span><\/li><\/ul><p> <\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531555503133jGivrd-陈晓芳.jpg",
+							"disciplinesText": [
+								"语文"
+							],
+							"gradeText": [
+								"小学"
+							]
+						}
+					]
+				}, {
+					"value": "zhuluyuan",
+					"text": "逐鹿园",
+					"data": [
+						{
+							"realname": "文书军",
+							"nickname": "",
+							"result": "<ul><li><span><span><span><span >连续五年的小学毕业班语文与班主任工作，学生升入外国语和深圳（chao）常班人数在全市名列前茅，一个班级可达80%。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li  ><span><span><span><span >培养学生乐学，善学尊重学生个性，发展学生潜能为学生的终身学习设计课程，提升能力<\/span><\/span><\/span><\/span><\/li><\/ul><p> <\/p>",
+							"through": "<ul><li><span><span><span><span >逐鹿园创始人<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >湖北大学汉语言文学<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >小学高级教师<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >三十多年探究与实践的《快速作文》课题，快速阅读、快速思维、快速表达，“三快”理念唤醒生命潜能，激发生命活力<\/span><\/span><\/span><\/span><\/li><\/ul><p> <\/p>",
+							"schoolPhoto": "https://vteach-file-1.oss-cn-shenzhen.aliyuncs.com/20180112/wenshujun.jpg",
+							"disciplinesText": [
+								"语文"
+							],
+							"gradeText": [
+								"小学"
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"id": "3",
+			"value": "mathematics",
+			"name": "数学",
+			"list": [
+				{
+					"value": "maisi",
+					"text": "迈思数学工作室",
+					"data": [
+						{
+							"realname": "邓琨",
+							"nickname": "",
+							"result": "<p><span><span ><span><span > 所带学生有多人次获得初中数学联赛、高中数学联赛、美国数学竞赛奖项，并以优异的竞赛成绩获得清华、北大、美国一流名校的录取。 <\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span> <span >严谨认真<\/span> <\/span><\/span><\/span><\/p>",
+							"through": "<p><span><span ><span><span > 高中数学联赛一等奖，保送北京大学，八年初高中数学培优、竞赛教学经验。 <\/span><\/span><\/span><\/span><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531534569265Mmivrd-微信图片20180623100638.png",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"初中"
+							]
+						}, {
+							"realname": "钟森",
+							"nickname": "",
+							"result": "<ul><li><span ><span><span ><span>六届小六班毕业生中（2018未出结果），逾200人进入深圳中学的“3+2”班学习，其他进入“3+3”，深圳外国语，华师附中的更是数不胜数。<\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span ><span>七年时间，帮助很多学员重新找回了数学的学习兴趣，大部分小六班学员进入理想的校园。<\/span><\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<p><span><span ><span> <span >幽默风趣，教学严谨。<\/span> <\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span ><span><span > <span>2008年开始任教，10年教龄，在天津首开了小六班目标学校体系，辅导的学生大批进入天津一中，天津耀华初中和天津南开初中。<\/span><\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span ><span>首任深圳分校的超常体系负责老师，将第一届小六学员大批送入学校后，与邓琨老师（北京大学毕业，深圳知名中学竞赛教练）携手创业，深埋于数学赛事生的培养。<\/span><\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531534404556t2ivrd-微信图片20180623095431.png",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"小学高年级"
+							]
+						}
+					]
+				}, {
+					"value": "fenghuangmu",
+					"text": "凤煌木理科工作室",
+					"data": [
+						{
+							"realname": "崔玉晓",
+							"nickname": "",
+							"result": "<ul><li><span><span><span >2014年9月晶报评为“最受学生喜爱的老师”<\/span><\/span><\/span><\/li><li><span><span><span><span >培训学院(师训)中级荣誉讲师、荣誉导师<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >《决胜中考数学选填》品牌创立者、主编<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >《决胜中考数学解答》品牌创立者、主编<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"featureContent": "<p><span><span ><span><span >以幽默风趣的语言风格，最大限度地调动学生的学习兴趣。<\/span><\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span><span >凤煌木数学注册金牌教师<\/span><\/span><\/span><\/span><\/li><li><span><span><span ><span>2007年毕业于<\/span>武汉大学<\/span><\/span><\/span><\/li><li><span><span><span><span >深圳中考体系11年数学从教经验<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/153153749583316ivrd-微信图片20180606161026.png",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"初中一年级"
+							]
+						}, {
+							"realname": "王林",
+							"nickname": "",
+							"result": "<p><span><span ><span><span >累计培养学生人 数达 4000 余名，历年重本率超 80%。<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span><span ><span><span >幽默生动，善于发现学生的薄弱环节，查漏 补缺；善于激发兴趣，启发思维，引发动力，爆发成绩。<\/span><\/span><\/span><\/span><\/span><\/p><p><\/p>",
+							"through": "<p><span><span ><span><span >从教十年，深谙高考之道。<\/span><\/span><\/span><\/span><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531537258817Uhivrd-微信图片20180511172916.png",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"初中",
+								"高中"
+							]
+						}, {
+							"realname": "许乐",
+							"nickname": "",
+							"result": "<p><span ><span><span ><span>11年一线高中教学经验，历年所教初三升高一衔接班平均分130分以上，从教至今，府培养了近3000优秀学子踏入理想学府，高三毕业班平均重本率达93%，深受家长和孩子的好评。2018年深圳市高考文科第一名“王迪瑶”。<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span><span >幽默风趣，课堂轻松活跃，善于引导孩子主动学习，朋友式的分享和讨论。<\/span><\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span><span >高中数学名师<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >某知名教育金牌讲师<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >凤煌木教育品牌创始人<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >凤煌木高中数学裘满分教材主编<\/span><\/span><\/span><\/span><\/li><\/ul><p><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531537043257UUivrd-微信图片20180606160223.png",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"高中"
+							]
+						}, {
+							"realname": "刘军厚",
+							"nickname": "",
+							"result": "<p><span><span><span ><span><span >以2017届学员为例：40余人升入四大名校，数学90分以上50余人，11人满分。学员在各杯赛中获奖达数十人次。<\/span><\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span><span >严谨认真，逻辑性强<\/span><\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span><span >中学数学尖端体系11年从教经验<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >注册金牌教师、钻石导师、特级教研员、教研主任<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span >初中数学教材总主编、试题研究中心组长；<\/span><\/span><\/span><\/span><\/li><li><span><span><span ><span>“全国初中数学联赛”、“希望杯”、“启智杯”、<\/span><\/span><\/span><\/span> <\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/15315347370823Jivrd-微信图片20180610152851.png",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"初中"
+							]
+						}, {
+							"realname": "周志洪",
+							"nickname": "",
+							"result": "<p><span><span ><span><span ><span>擅长于用高效的学习方法指导学生学习，并让他们短期内快速提升成绩。多次用<\/span>不到10小时时间使其成绩从及格线拔高到80分以上<span>（换算成100分制）。<\/span><\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span><span >严谨，活泼，拥有自己的教学体系。<\/span><\/span><\/span><\/span><\/p>",
+							"through": "<p><span><span ><span><span><span >从事数学教学工作5年，基本功深厚,精确掌握中高考数学。<\/span><\/span><\/span><\/span><\/span><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180715\/15316267114802Iivrd-微信图片20180525175859.png",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"高中"
+							]
+						}
+					]
+				}, {
+					"value": "ivan",
+					"text": "艾文培训中心",
+					"data": [
+						{
+							"realname": "胡嫚慧",
+							"nickname": "",
+							"result": "<ul><li><span><span><span >教学方法生动灵活，激发学生的学习欲望，调动学生的积极性。<\/span><\/span><\/span><\/li><li><span><span><span >启发学生的思考能力，学生成绩进步显著。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >教学风格亲切自然，注重师生之间的平等、协作、和谐。<\/span><\/span><\/span><\/li><li><span><span><span >将对知识的探索融于简朴真实的教学情景中。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >大学本科学历，师承父业，教学经验丰富。<\/span><\/span><\/span><\/li><li><span><span><span >中学曾被选拔进入全县奥赛尖子班，参加过各类奥数培训和竞赛。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531556620986oBivrd-胡曼英.jpg",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"小学高年级"
+							]
+						}, {
+							"realname": "徐梦",
+							"nickname": "",
+							"result": "<ul><li><span><span><span >所带学生成绩进步明显，其中多名学生入学时，从60多分提高至90多分。<\/span><\/span><\/span><\/li><li><span><span><span >所带学生多名在杯赛中取得优异成绩。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >教学严谨，条理清晰。<\/span><\/span><\/span><\/li><li><span><span><span >课堂气氛活跃，注意学生质疑问难，使学生对内容理解更加深入，且有利于培养提出问题，分析问题，解决问题的能力。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >从事教学6年，曾任艾文数学小学部教研主管。<\/span><\/span><\/span><\/li><li><span><span><span >负责编辑小学数学教材及精品课程教材。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531552794055G5ivrd-徐梦1.jpg",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中一年级"
+							]
+						}, {
+							"realname": "毕新明",
+							"nickname": "",
+							"result": "<ul><li><span><span><span >对数学不是很自信的同学，经过一段时间的学习指导，数学成绩和兴趣都有明显提升。<\/span><\/span><\/span><\/li><li><span><span><span >部分同学成绩提分显著，从及格到优秀。<\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span><span><span >追求简约，简约不同于简单，摒弃一切奢华，使课堂变得更为简洁、深刻，从而达到优质和高效。<\/span><\/span><\/span><\/li><li><span><span><span >用思维的逻辑力吸引学生的注意力，使学生不仅学到知识，也可以受到思维训练。<\/span><\/span><\/span><\/li><li><span><span><span >充分利用学生身边的生活现象深入新知，设计富于生活色彩而使学生感兴趣的生活素材。<\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span><span><span >有多年教学经验，获得教师资格证。<\/span><\/span><\/span><\/li><li><span><span><span >主要带初中数学。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531547248024sPivrd-毕新明1.jpg",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"初中一年级",
+								"初中二年级"
+							]
+						}
+					]
+				}, {
+					"value": "ruzikejiao",
+					"text": "孺子可教工作室",
+					"data": [
+						{
+							"realname": "宋恩龙",
+							"nickname": "",
+							"result": "<p><span><span ><span><span >所带学员大多考上四大，八大<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span><span >授课幽默风趣、激情洋溢，能够引导孩子积极思考，激发学习兴趣。 <\/span><\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span ><span><span >毕业于中南大学<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >曾任职于国内知名上市教育机构<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >并先后承担了初中数学培优体系、启航体系的教学、教研工作<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >培优体系数学骨干教师，启航体系教学负责人。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180715\/1531621548058LIivrd-微信图片20180714112855.jpg",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"初中"
+							]
+						}
+					]
+				}, {
+					"value": "xinketang",
+					"text": "新课堂教育工作室",
+					"data": [
+						{
+							"realname": "卢其祥",
+							"nickname": "",
+							"result": "<ul><li><span><span ><span><span > <span>所带班级学员进步明显，曾有学员短期内从40分提至90分；多名学员在小升初考试中成绩优异。<\/span><\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span ><span>所带学员多名在希望杯、启智杯等比赛中活动一、二、三等奖；2017年小六班多名学员考入百外。<\/span><\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span ><span>2018年所带学员多人考入高级班、亚迪、百外等学校；精品班70%以上学员成功考入百外。<\/span><\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<p> <span><span><span >课堂气氛活跃，充分发挥教师的主导作用，调动学生积极性；上课注重交流，重视自主探索、总结归纳，善于培养学生的思维能力、创造力。<\/span><\/span><\/span> <\/p>",
+							"through": "<ul><li><span><span ><span> <span ><span>原成功教育品牌创始人之一，小六生团队精英教师。<\/span><\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span ><span>专业基础扎实,善于针对性教学，教学经验丰富<\/span><\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180713\/153148638233317ivrd-微信图片20180621163922.png",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中一年级"
+							]
+						}, {
+							"realname": "饶东升",
+							"nickname": "",
+							"result": "<ul><li><span ><span><span ><span>所带小学学生多人考取市外、深圳3+2、3+3、百外等学校<\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>在各大杯赛（希望杯、华杯赛、两岸四地、华夏杯等）中多人斩获一、二、三等奖<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<ul><li><span ><span><span ><span>培养兴趣、提升信心、开拓思维——兴趣和思维的碰撞<\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>课堂严谨不乏幽默<\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>注重培养学生独立思考的能力<\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>注重培养学生的学习信心<\/span><\/span><\/span><\/span><\/li><li><span ><span><span ><span>注重培养学生的自主学习的习惯<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"through": "<ul><li><span ><span><span><span ><span>原成功教育品牌创始人之一<\/span><\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span ><span>拥有10多年教学经验<\/span><\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span ><span>曾在机构任职教学组长<\/span><\/span><\/span><\/span><\/span><\/li><li><span ><span><span><span ><span>数学学科教研负责人<\/span><\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180713\/1531487671395ADivrd-微信图片20180622122949.png",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"小学高年级",
+								"初中"
+							]
+						}, {
+							"realname": "谢培杰",
+							"nickname": "",
+							"result": "<ul><li><span><span ><span><span >2013年所带4名学生考入高级学校。<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >2014年华杯赛，所带学员中有4名获得二等奖，有5名获得三等奖。<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >2015年华杯赛，所带学员有1名获得一等奖，6名获得二等奖，4名获得三等奖，本人获得“优秀教练员”称号！<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >在学生和老师的共同努力下，可以在短时间内帮助学生提高数学成绩，成绩在A及以上的学员占80％以上。<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >2016年华杯赛，所带学员有2名获得一等奖，8名获得二等奖，10名获得三等奖，本人获得“优秀教练员”称号。<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >2017年，16个学生有11个学生考上了四大名校，其中袁*齐，李*屹，张*睿，黄*畅考上百外，陈*文，王*涵考上深中，名校录取率高达68.75%。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"featureContent": "<p><span><span ><span>风趣幽默，鼓励为主，关爱学生。<\/span><\/span><\/span><\/p><p><\/p>",
+							"through": "<ul><li><span><span ><span><span >2010年毕业于韩山师范学院数学教育专业，七年的数学教育经验，担任过公立学校及培训机构数学老师。<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >曾多次获得“优秀班主任”、“优秀老师”、“优秀教练员”等荣誉。<\/span><\/span><\/span><\/span><\/li><li><span><span ><span><span >七年来所教学生不论基础还是培优班考试,大部分都名列班级或学校前列多次帮助家长一起改变某些学生的不良习惯，让他们有质的飞跃。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180724\/15324312203661sivrd-谢培杰.jpg",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"小学四年级"
+							]
+						}
+					]
+				}, {
+					"value": "mingsi",
+					"text": "明思教育工作室",
+					"data": [
+						{
+							"realname": "汪治平",
+							"nickname": "",
+							"result": "<p><span><span><span >近百名学生进入清华、北大、港大、复旦、上海交大等名校；2016年李庆泓考取“广东省文科状元”，进入北京大学光华管理学院。<\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span><span >系统的方法体系+恰到好处的引导。<\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span><span ><span >12年高中数学教学经验<\/span><\/span><\/span><\/span><\/span><\/li><li><span><span><span><span ><span >10年高三毕业班教学经验<\/span><\/span><\/span><\/span><\/span><\/li><li><span><span><span><span ><span >深圳品牌教育机构高中数学建立知识体系第一人<\/span><\/span><\/span><\/span><\/span><\/li><li><span><span><span><span ><span >深圳品牌教育机构高中数学教材编写第一人<\/span><\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180713\/1531486708585gLivrd-微信图片20180526113518.png",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"高中"
+							]
+						}, {
+							"realname": "曾慧",
+							"nickname": "",
+							"result": "<p><span><span><span >所带初三学生直升率50%，四大名校录取率75%<\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span><span><span >教学过程中注重教会学生学习的方法，提高学生的学习能力。<\/span><\/span><\/span><\/span><\/p><p><\/p>",
+							"through": "<p><span><span><span >十年数学教学经验，所带学员大多为八大的学生<\/span><\/span><\/span><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180712\/1531367934460Fdivrd-微信图片_20180526113500.png",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"初中二年级",
+								"初中三年级"
+							]
+						}
+					]
+				}, {
+					"value": "youketang",
+					"text": "优课堂工作室",
+					"data": [
+						{
+							"realname": "周瑜辉",
+							"nickname": "",
+							"result": "<p><span><span ><span><span >89%的学员成绩进步明显<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span><span >数学有激情，有自己独特的教育方式方法，深受广大学生和家长的好评！<\/span><\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span ><span><span >中小学数学 10年执教至今<\/span><\/span><\/span><\/span><\/span><\/li><li><span><span><span ><span><span >知名品牌机构金牌教师、教材编写人<\/span><\/span><\/span><\/span><\/span><\/li><li><span><span><span ><span><span >希望杯、华杯赛等全国数学竞赛优秀教练<\/span><\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180807\/1533624169288ptivrd-微信图片20180807144231.png",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"小学六年级",
+								"初中"
+							]
+						}
+					]
+				}, {
+					"value": "xinsichao",
+					"text": "新思潮",
+					"data": [
+						{
+							"realname": "喻小超",
+							"nickname": "",
+							"result": "<p><span><span ><span><span > 所有学生国际竞赛百分百获奖，2016年学而思杯前100喻老师学生占八席，学生吴、孔二人获过杯赛深圳前三，成获全国第四。 <\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span> <span >活泼亲切，想象力丰富，知识含量很大，课堂灵性幽默，信马由缰，谈古论今，从天体宇宙到人文自然，全部都能与奥数串联。不够霸气，不会批评学生，威严不够。<\/span> <\/span><\/span><\/span><\/p>",
+							"through": "<p><span><span ><span><span > 学*思，新*方，*年教育教学主管。 <\/span><\/span><\/span><\/span><\/p>",
+							"schoolPhoto": "https://vteach-file-1.oss-cn-shenzhen.aliyuncs.com/20180112/yuxiaochao.jpg",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"小学"
+							]
+						}
+					]
+				},{
+					"value": "yongjiejiaoyu",
+					"text": "永杰教育",
+					"data": [
+						{
+							"realname": "李永林",
+							"nickname": "",
+							"result": "<p><span><span ><span><span > 自从教以来，所带学员总人数超过1000，大多数学生长期跟随课程系统学习，数学兴趣，思考习惯，思维能力获得了巨大的提升。2016年所带100多初三毕业生，中考A+率超过50%，满分率超过10%，几十位核心老学员均考入深圳四大高中，其中22个实验学生，18个通过直升考试进入实验高中部。 <\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span> <span >讲课思路清晰，善于使用几何画板演示动态几何内容，授课注重方法引导，擅长一题多解，多题一解，注重拓展延伸，深度解析。注重引导并培养学生的思考习惯和能力，将学习成就感还给学生。<\/span> <\/span><\/span><\/span><\/p>",
+							"through": "<p><span><span ><span><span >2012年加入深圳学*思主教小学高年级数学和初中数学。2014年离职创办培训工作室至今。独立研发了全套小学高年级数学、初中数学、高中数学系统课程。现在专注于深圳中考，广东高考课程研发与教学。 <\/span><\/span><\/span><\/span><\/p>",
+							"schoolPhoto": "https://vteach-file-1.oss-cn-shenzhen.aliyuncs.com/20180112/liyonglin.png",
+							"disciplinesText": [
+								"数学"
+							],
+							"gradeText": [
+								"初中",
+								"高中"
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"id": "4",
+			"value": "physical",
+			"name": "物理",
+			"list": [
+				{
+					"value": "fenghuangmu",
+					"text": "凤煌木理科工作室",
+					"data": [
+						{
+							"realname": "李军",
+							"nickname": "",
+							"result": "<p><span><span ><span><span >多年高中教学经验，课堂幽默生动，知识点深入浅出，深受学生喜欢，所带学生每年几十人考入本科重点大学！ <\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span><span >重感悟，重积累，重情趣，重迁移，重习惯。 <\/span><\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span >物理名师<\/span><\/span><\/span><\/li><li><span><span><span >持有国家高级中学教师资格证 <\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531536886240ySivrd-微信图片20180511172912.png",
+							"disciplinesText": [
+								"物理"
+							],
+							"gradeText": [
+								"高中"
+							]
+						}, {
+							"realname": "黄舒萍",
+							"nickname": "",
+							"result": "<p><span><span ><span><span >A+率曾高达20%，90分以上达85%，绝大部分学生进步神速。<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span>激情睿智、风趣幽默；你可以窃取我的idea，偷不走的是我的源创力。<\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span >初中理化负责人<\/span><\/span><\/span><\/li><li><span><span><span >理化名师<\/span><\/span><\/span><\/li><li><span><span><span >多年理化从教经验<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531535794576gRivrd-微信图片20180511172924.png",
+							"disciplinesText": [
+								"物理",
+								"化学",
+								"生物"
+							],
+							"gradeText": [
+								"初中",
+								"高中一年级"
+							]
+						}
+					]
+				}, {
+					"value": "dengke",
+					"text": "登科教育工作室",
+					"data": [
+						{
+							"realname": "吴秋引",
+							"nickname": "",
+							"result": "<p><span><span><span><span ><span >从教至今，根据详细数据统计，所有学员进步率达到95%。<\/span><\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span><span ><span >严谨幽默，灵活多变<\/span><\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span><span ><span >2014年创立登科教育<\/span><\/span><\/span><\/span><\/span><\/li><li><span><span><span ><span >6年一线教学经验<\/span><\/span><\/span><\/span><\/li><li><span><span><span ><span >登科物理化学教材主编<\/span><\/span><\/span><\/span><\/li><li><span><span><span><span ><span >《登科高中物理大招秘籍》系列丛书主编<\/span><\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180715\/15316248157073Civrd-微信图片20180714190129.jpg",
+							"disciplinesText": [
+								"物理"
+							],
+							"gradeText": [
+								"高中"
+							]
+						}
+					]
+				}, {
+					"value": "mingsi",
+					"text": "明思教育工作室",
+					"data": [
+						{
+							"realname": "王大伟",
+							"nickname": "",
+							"result": "<p><span><span ><span><span>教过数千名学生，曾经在一个暑假所带学生人数超过500人；所带学生重本率超过80%，本科率95%以上，其中考入清华、北大、港大、港科大、复旦、上海交大、浙大、中科大的学生有近百人。<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span><span >教学中注重培养学生对物理概念、原理的深刻理解，解题方法的熟练运用以及物理思维的启发与拓展！<\/span><\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span ><span><span >10年高中物理教学经验<\/span><\/span><\/span><\/span><\/span><\/li><li><span><span><span ><span ><span>8年高三物理教学经验，<\/span>经历了多次高考改革，对高考命题走向及考点把握到位。<\/span><\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180713\/1531486666270zkivrd-微信图片20180526113507.png",
+							"disciplinesText": [
+								"物理"
+							],
+							"gradeText": [
+								"高中"
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"id": "5",
+			"value": "chemical",
+			"name": "化学",
+			"list": [
+				{
+					"value": "fenghuangmu",
+					"text": "凤煌木理科工作室",
+					"data": [
+						{
+							"realname": "罗蕾",
+							"nickname": "",
+							"result": "<p><span><span ><span><span >累计培养学生人数已达 2276 名，每年帮助大多数学生踏入理想学府。 <\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span>让每位学生都能在轻松快乐的氛围中学习， 帮助学生理解知识，运用知识，激发学生的学习兴趣， 引发动力。<\/span><\/span><\/span><\/p>",
+							"through": "<p><span ><span><span ><span>6 年高中化学教学经验<\/span><\/span><\/span><\/span><\/p>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531536523839uHivrd-微信图片20180511172921.png",
+							"disciplinesText": [
+								"化学"
+							],
+							"gradeText": [
+								"高中"
+							]
+						}, {
+							"realname": "黄舒萍",
+							"nickname": "",
+							"result": "<p><span><span ><span><span >A+率曾高达20%，90分以上达85%，绝大部分学生进步神速。<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span>激情睿智、风趣幽默；你可以窃取我的idea，偷不走的是我的源创力。<\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span >初中理化负责人<\/span><\/span><\/span><\/li><li><span><span><span >理化名师<\/span><\/span><\/span><\/li><li><span><span><span >多年理化从教经验<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531535794576gRivrd-微信图片20180511172924.png",
+							"disciplinesText": [
+								"物理",
+								"化学",
+								"生物"
+							],
+							"gradeText": [
+								"初中",
+								"高中一年级"
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"id": "6",
+			"value": "biological",
+			"name": "生物",
+			"list": [
+				{
+					"value": "fenghuangmu",
+					"text": "凤煌木理科工作室",
+					"data": [
+						{
+							"realname": "黄舒萍",
+							"nickname": "",
+							"result": "<p><span><span ><span><span >A+率曾高达20%，90分以上达85%，绝大部分学生进步神速。<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span>激情睿智、风趣幽默；你可以窃取我的idea，偷不走的是我的源创力。<\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span >初中理化负责人<\/span><\/span><\/span><\/li><li><span><span><span >理化名师<\/span><\/span><\/span><\/li><li><span><span><span >多年理化从教经验<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531535794576gRivrd-微信图片20180511172924.png",
+							"disciplinesText": [
+								"物理",
+								"化学",
+								"生物"
+							],
+							"gradeText": [
+								"初中",
+								"高中一年级"
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"id": "8",
+			"value": "geographic",
+			"name": "地理",
+			"list": [
+				{
+					"value": "fenghuangmu",
+					"text": "凤煌木理科工作室",
+					"data": [
+						{
+							"realname": "黄舒萍",
+							"nickname": "",
+							"result": "<p><span><span ><span><span >A+率曾高达20%，90分以上达85%，绝大部分学生进步神速。<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span>激情睿智、风趣幽默；你可以窃取我的idea，偷不走的是我的源创力。<\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span >初中理化负责人<\/span><\/span><\/span><\/li><li><span><span><span >理化名师<\/span><\/span><\/span><\/li><li><span><span><span >多年理化从教经验<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "http:\/\/vteach-file-1.oss-cn-shenzhen.aliyuncs.com\/20180714\/1531535794576gRivrd-微信图片20180511172924.png",
+							"disciplinesText": [
+								"物理",
+								"化学",
+								"生物"
+							],
+							"gradeText": [
+								"初中",
+								"高中一年级"
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"id": "9",
+			"value": "suzhi",
+			"name": "素质",
+			"list": [
+				{
+					"value": "xingkongyishu",
+					"text": "星空艺术",
+					"data": [
+						{
+							"realname": "刘虹",
+							"nickname": "",
+							"result": "<p><span><span ><span><span >高级形象设计、高级化妆师、初级服装设计师、三级心理咨询师、摄影协会会员。<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span>在教学中，善于运用现代美术教育观念，开拓孩子的创意思维，经验丰富、教法灵活，擅长在诱导与示范的教学过程中，培养学生观察生活、表现生活的良好习惯，促进儿童综合素质的提高。在课堂上发挥儿童的创造力，使儿童体验创造的快乐。根据他们的能力和兴趣，以游戏、色彩等形式，以自主表现为手段的教育特色，教授折纸粘贴画、剪纸粘贴画、水粉画、线条画、手工制作、等美术教学内容，促进孩子们的个性全面发展。<\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span >毕业于西安工程大学服装设计系，因为热爱教育所以一直从事于教育行业、奔波于各教育机构不亦乐乎。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "https://vteach-file-1.oss-cn-shenzhen.aliyuncs.com/20180112/liuhong.jpg",
+							"disciplinesText": [
+								"美术"
+							],
+							"gradeText": [
+								"中班到初三、成人班美术"
+							]
+						}, {
+							"realname": "吴永义",
+							"nickname": "",
+							"result": "<p><span><span ><span><span >自2011年来深，积极带领学生参与学校及团体的活动，先后有120多名同学获国家级，省级，市级奖励。<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span>教学忠实于教材，以基础笔画、结构、章法入手培养书写特长生，课程生动活泼，轻松愉悦，深受孩子们喜欢。<\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span >1990年在“海内外颍州西湖碑林”征集中，书法隶书作品获奖并入书珍藏。<\/span><\/span><\/span><\/li><li><span><span><span >1991年，“东海双龙杯”全国书画竞技大赛中获硬笔书法一等奖。<\/span><\/span><\/span><\/li><li><span><span><span >1997年在“迎香港，庆回归”的“肝胆相照，荣辱与共”书法作品在《达州日报·校园周刊》上刊登，作为素质教育教学材料宣传。<\/span><\/span><\/span><\/li><li><span><span><span >2003年4月，获万源市罗文区教师三笔字技能竞赛第一名。<\/span><\/span><\/span><\/li><li><span><span><span >2004年论文《硬笔三部曲》获达州市教育科学研究创新奖。<\/span><\/span><\/span><\/li><li><span><span><span >2011年至今连续七年被罗湖区教育局评为优秀书法指导老师。长期受聘深圳市百度传媒、锦盟艺术，坂田星河艺术等培训中心书法教师,深受师生和家长的好评。<\/span><\/span><\/span><\/li><li><span><span><span >2015年4月获清水河街道办举办的“我心中的廉洁”书法比赛第二名。7月为《中国海丝》书法大赛特约嘉宾。<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "https://vteach-file-1.oss-cn-shenzhen.aliyuncs.com/20180112/xingkong.png",
+							"disciplinesText": [
+								"书法"
+							],
+							"gradeText": [
+								"大班以上书法"
+							]
+						}
+					]
+				},{
+					"value": "xingdeqiyuan",
+					"text": "兴德棋院",
+					"data": [
+						{
+							"realname": "罗中艳",
+							"nickname": "",
+							"result": "<p><span><span ><span><span >曾培训处大批优秀教师，也培养了大批在龙岗区获奖的小棋手<\/span><\/span><\/span><\/span><\/p>",
+							"featureContent": "<p><span><span ><span>教学生动、成绩突出<\/span><\/span><\/span><\/p>",
+							"through": "<ul><li><span><span><span >围棋业余3段，公司区域负责人，优秀围棋教师<\/span><\/span><\/span><\/li><\/ul>",
+							"schoolPhoto": "https://vteach-file-1.oss-cn-shenzhen.aliyuncs.com/20180112/luo.jpg",
+							"disciplinesText": [
+								"围棋"
+							],
+							"gradeText": [
+								"1-6年级"
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

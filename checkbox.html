@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            复选框(checkbox)全选/全不选/反选
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/checkbox.css" />
+    </head>
+    <body>
+        <div class="box">
+            <input id="isall"type="checkbox"><label>全选</label>
+            <a id="counter" href="">反选</a>
+        </div>
+        <div class="box">
+            <div>
+                <input class="all" type="checkbox"><label>1</label>
+            </div>
+            <div>
+                <input class="all" type="checkbox"><label>2</label>
+            </div>
+            <div>
+                <input class="all" type="checkbox"><label>3</label>
+            </div>
+            <div>
+                <input class="all" type="checkbox"><label>4</label>
+            </div>
+        </div>
+            
+    </body>
+    <script>
+        window.onload = function(){
+            var isall = document.getElementById("isall");
+            var counter = document.getElementById("counter");
+            var all = document.getElementsByClassName("all");
+            var word = document.getElementsByTagName("label")[0];
+            var len = all.length;
+            isall.onclick = function(){
+                for(let i=0; i<len; i++){
+                    all[i].checked = true;
+                }
+            };
+            counter.onclick = function(){
+                for(let i=0;i<len;i++){
+                    all[i].checked = !all[i].checked;
+                }
+            }
+        }
+    </script>
+</html>

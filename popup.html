@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            <head>
+                弹出窗
+            </head>
+            <style>
+                * {
+                    margin: 0;
+                }
+            </style>
+        </title>
+    </head>
+    <body style="margin: 0;">
+        <div>
+            <div style="
+            width:100px;
+            margin:0 auto;">
+                <button>弹出窗</button>
+            </div>
+            <div id="bg"style="margin: 0;
+            opacity:0.5;
+            background:#000;
+            position:absolute;
+            top:0;
+            left:0;
+            display:none;
+            width:100%;
+            height:100%;"></div>
+            <div id="window" style="
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                width: 400px;
+                height: 200px;
+                background: #fff;
+                border: 4px solid #f90;
+                margin: -102px 0 0 -202px;
+                display: none;
+                z-index:2;
+                "}>
+                <h2 style="
+                font-size: 12px;
+                background: #FC0;
+                color:chocolate;
+                border-bottom: 3px solid #f90;
+                padding: 5px;
+                margin: 0;">
+                    小窗口
+                    <span id="close" style="
+                    float:right;
+                    color: #f90;
+                    cursor: pointer;
+                    background: #fff;
+                    border: 1px solid #f90;
+                    padding: 0 2px;">
+                        X
+                    </span>
+                </h2>
+                <div style="margin:2px;color:grey;">
+                    这是小窗口的内容
+                </div>
+            </div>
+        </div>
+        <script>
+            window.onload = function(){
+                var button = document.getElementsByTagName("button")[0];
+                var bg = document.getElementById("bg");
+                var wd = document.getElementById("window");
+                var cl = document.getElementById("close");
+                button.onclick = function(){
+                    wd.style.display = "block";
+                    bg.style.display = "block";
+                };
+                cl.onclick = function(){
+                    wd.style.display = "none";
+                    bg.style.display = "none";
+                };
+            }
+        </script>
+    </body>
+</html>
