@@ -1,0 +1,16 @@
+#wrapper {
+    width:400px;
+    margin: auto;
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+}
+input{
+    width: 50px;
+    border:1px solid pink;
+    margin: 1px;
+}
+#submit{
+    width:50px;
+    border: 0; 
+}

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrapper {
+    width:200px;
+    border: 1px solid #49951d;
+    margin:auto;
+}
+#title {
+    color: #fff;
+    background:#49951d;
+    font-size: 14px;
+    line-height: 20px;
+    cursor: pointer;
+    padding:5px;
+    border: 1px solid #fff;
+}
+span {
+    float: right;
+}
+.show {
+    /*display: block;*/
+}
+ul {
+    list-style: none;
+}
+li {
+    color: #34790c;
+    padding: 5px;
+    background: #b3e297;
+    cursor: pointer;
+}
+li:hover {
+    background: #fff;
+}
+.hide {
+    display: none;
+}

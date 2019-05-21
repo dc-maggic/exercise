@@ -1,0 +1,49 @@
+#wrapper {
+    width:400px;
+    height: 200px;
+    margin: auto;
+    border:1px solid green;
+    position: relative;
+}
+.photo {
+    width:400px;
+    height: 200px;
+    overflow: hidden;
+    position: absolute;
+    top:0;
+    left:0;
+    opacity: 0;
+}
+.show {
+    opacity: 1;
+}
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+ul{
+    list-style: none;
+    display: flex;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+}
+li{
+    width:20px;
+    height: 20px;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    line-height: 20px;
+    padding: 2px;
+    margin: 0 5px;
+    background: green;
+    opacity: 0.5;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.focus {
+    opacity: 1;
+}

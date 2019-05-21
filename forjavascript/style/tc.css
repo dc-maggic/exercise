@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#wrapper {
+    width:450px;
+    margin:auto;
+    border: 1px solid #000;
+}
+ul {
+    font-size: 12px;
+    display: none;
+    list-style: inside;
+}
+li{
+}
+#title {
+    display: flex;
+    background: #000;
+    color: #fff;
+    list-style: none;
+}
+#title li {
+    width:76px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    cursor: pointer;
+    border-bottom: 1px solid #000;
+}
+.show {
+    background: #555;
+    color: #000;
+}
+.list {
+    display: block;
+    padding:10px;
+    line-height: 20px;
+}

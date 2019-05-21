@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding: 0;
+}
+#wrapper {
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid orange;
+    text-align: center;
+}
+span {
+    width: 50px;
+    background: orange;
+    color: #fff;
+    margin: 0 10px;
+    padding: 0 10px;
+    line-height: 2;
+}

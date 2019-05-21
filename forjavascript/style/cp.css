@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrapper {
+    width:240px;
+    margin:100px auto;
+}
+#box {
+    
+}
+#cover {
+    width: 160px;
+    height: 160px;
+}
+li{
+    overflow: hidden;
+    display: float;
+    float: left;
+    height: 80px;
+    width: 80px;
+}
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.photos {
+    cursor: pointer;
+}
