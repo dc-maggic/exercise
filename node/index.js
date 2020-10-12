@@ -1,4 +1,4 @@
-
+#!/usr/bin/env node
 var example = require('./example.js');
 var name = process.argv[2]|| 'maggic';
 console.log("Hello!let's try the example,",name);
