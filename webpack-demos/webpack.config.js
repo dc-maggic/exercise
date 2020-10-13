@@ -3,25 +3,23 @@ const UglifyJsPlugin = require('webpack/lib/optimize/UglifyJsPlugin');
 
 module.exports = function (env = {}, argv) {
     const plugins = [];
-
     const isProduction = env['production'];
-    if(isProduction){
+    if (isProduction) {
         plugins.push(
             new UglifyJsPlugin()
         )
     }
-    console.log('-----------');
-    console.log(env);
-    console.log(plugins);
-    console.log('-----------');
     return {
         // JavaScript 执行入口文件
-        entry: './main.js',
+        entry: './main',
         output: {
             // 把所有依赖的模块合并输出到一个 bundle.js 文件
             filename: 'bundle.js',
             // 输出文件都放到 dist 目录下
             path: path.resolve(__dirname, './dist'),
+        },
+        resolve:{
+            extensions: ['.ts','.js']   //用于配置在尝试过程中用到的后缀列表
         },
         module: {
             rules: [
@@ -29,10 +27,18 @@ module.exports = function (env = {}, argv) {
                     // 用正则去匹配要用该 loader 转换的 CSS 文件
                     test: /\.css$/,
                     use: ['style-loader', 'css-loader?minimize'],
+                },
+                {
+                    test: /\.js$/,
+                    use: ['babel-loader'],
+                },
+                {
+                    test: /\.ts$/,
+                    loader: 'awesome-typescript-loader'
                 }
             ]
         },
-        
+
         devServer: { // DevServer 相关的配置
             https: false, // 是否开启 HTTPS 模式
         },
