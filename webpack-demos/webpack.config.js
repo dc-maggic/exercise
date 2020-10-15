@@ -1,5 +1,6 @@
 const path = require('path');
 const UglifyJsPlugin = require('webpack/lib/optimize/UglifyJsPlugin');
+// const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 module.exports = function (env = {}, argv) {
     const plugins = [];
@@ -18,8 +19,8 @@ module.exports = function (env = {}, argv) {
             // 输出文件都放到 dist 目录下
             path: path.resolve(__dirname, './dist'),
         },
-        resolve:{
-            extensions: ['.ts','.js']   //用于配置在尝试过程中用到的后缀列表
+        resolve: {
+            extensions: ['.ts', '.js']   //用于配置在尝试过程中用到的后缀列表
         },
         module: {
             rules: [
@@ -27,6 +28,12 @@ module.exports = function (env = {}, argv) {
                     // 用正则去匹配要用该 loader 转换的 CSS 文件
                     test: /\.css$/,
                     use: ['style-loader', 'css-loader?minimize'],
+                },
+                {
+                    // 增加对 SCSS 文件的支持
+                    test: /\.scss$/,
+                    // SCSS 文件的处理顺序为先 sass-loader 再 css-loader 再 style-loader
+                    use: ['style-loader', 'css-loader?minimize', 'sass-loader'],
                 },
                 {
                     test: /\.js$/,
