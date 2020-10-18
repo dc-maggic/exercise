@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>app</title>
+</head>
+<body>
+
+<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js" ></script>
+    <script>
+        $.ajax({
+            url:"http://localhost:8080",
+            data:"我是Maggic",
+            type:"post",
+            success:function(d){console.log("success",d)},
+            error:function(d){console.log("error",d)}
+            })
+    </script>
+</body>
+</html>
