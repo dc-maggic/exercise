@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+.left{
+    float: left;
+    width: 200px;
+}
+.bottom{
+    /* width: 200px; */
+}
+.main, .left, .bottom{
+    border: 1px solid orange;
+}
+.main::after{
+    content: ' ';
+    clear: both;
+    display:block;
+}
