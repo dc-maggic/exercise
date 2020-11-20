@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>v-for</title>
+    <style>
+        .flex{
+            display: flex;
+            justify-content: space-around;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>研究 vue 中为什么 v-for 需要 key</h1>
+    <div id="app">
+        <input type="text" v-model="value" placeholder="请输入要添加的项目" @keyup.enter="submit">
+
+        <div class="flex">
+            <div>
+                <p>没有使用 key</p>
+                <child v-for="item,i in list" :context="item.text" @delete="remove(i)"></child>
+            </div>
+            <div>
+                <p>使用了 key</p>
+                <child v-for="item,i in list" :key="item.id" :context="item.text" @delete="remove(i)"></child>
+            </div>
+        </div>
+        <hr>
+        <div>没有使用 key 的组，当对临时数据进行增加或删减会发送数据紊乱的情况</div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script>
+        Vue.component('child',{
+            template:`<div>
+                <button  @click="onDelete" type="button">-</button>
+                <input v-model="x"> {{context}}</div>`,
+            props:["context"],
+            data:function(){
+                return{
+                   x:Math.random()*10
+                }
+            },
+            methods:{
+                onDelete:function(){
+                    this.$emit("delete",)
+                },
+                
+            }
+        })
+        var app = new Vue({
+            el: "#app",
+            data: {
+                value: "",
+                list: [
+                    {
+                        id: 1,
+                        text: 'SICP'
+                    }, {
+                        id: 2,
+                        text: 'CSAPP'
+                    }, {
+                        id: 3,
+                        text: 'JAVASCRIPT'
+                    }
+                ]
+            },
+            methods: {
+                submit: function () {
+                    // var arg = this.list.slice();
+                    this.list.unshift({
+                        id: new Date().getTime(),
+                        text: this.value
+                    })
+                    // this.list = this.arg.slice();
+                    this.value = "";
+                },
+                remove:function(i){
+                    this.list.splice(i,1)
+                }
+            },
+        })
+    </script>
+</body>
+
+</html>
