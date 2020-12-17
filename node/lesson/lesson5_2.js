@@ -1,0 +1,24 @@
+setTimeout(()=>{
+    console.log("setTimeout");
+    setImmediate(()=>{
+        console.log("setTimeout-setImmediate")
+    })
+    Promise.resolve().then(()=>{
+        console.log("setTimeout-Promise")
+        Promise.resolve().then(()=>{
+            console.log(2)
+        })
+    })
+    process.nextTick(()=>{
+        console.log("setTimeout-process")
+    })
+},0)
+setImmediate(()=>{
+    console.log("setImmediate");
+    Promise.resolve().then(()=>{
+        console.log("setImmediate-Promise")
+    })
+    process.nextTick(()=>{
+        console.log("setImmediate-process")
+    })
+})
